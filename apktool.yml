@@ -9,15 +9,42 @@ sdkInfo:
 packageInfo:
   forcedPackageId: 127
 versionInfo:
-  versionCode: 100
-  versionName: 1.0.0
+  versionCode: 102
+  versionName: 1.0.0-Mod
 doNotCompress:
 - arsc
 - jpg
 - png
 - assets/0
+- assets/1
+- assets/10
 - assets/2
 - assets/2.1
+- assets/2.2
+- assets/2.3
+- assets/3
+- assets/3.1
+- assets/4
+- assets/5
+- assets/6
+- assets/7
+- assets/7.1
+- assets/7.10
+- assets/7.2
+- assets/7.3
+- assets/7.4
+- assets/7.5
+- assets/7.6
+- assets/7.7
+- assets/7.8
+- assets/7.9
+- assets/8
+- assets/888
+- assets/9
+- assets/9.1
+- assets/9.2
+- assets/9.3
+- assets/999
 - assets/DefaultProfiles
 - assets/IAP_Contents
 - assets/IAP_ProfileProperties.txt
@@ -30,3 +57,4 @@ doNotCompress:
 - res/raw/nih.bin
 - res/raw/serialkey.txt
 - res/raw/sms_configs_content.txt
+
