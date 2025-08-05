@@ -3339,17 +3339,17 @@
 
     :array_3
     .array-data 4
-        0xf423f
-        0xf423f
+        0xf423f		# COINS
+        0xf423f		# DIAMONDS
         0xb
-        0xf423f
+        0xf423f		# EXP
         0xc8
-        0xf423f
-        0xf423f
-        0xf423f
+        0xf423f		# WOODS
+        0xf423f		# METALS
+        0xf423f		# FABRIC
         0x64
-        0xf423f
-        0xf423f
+        0xf423f		# SOCIAL STARS
+        0xf423f		# I Honestly Don't Know
     .end array-data
 
     :array_4
