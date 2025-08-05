@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CODE">ET</string>
+    <string name="string_app_name">100% Games!</string>
+    <string name="string_error_io_exception">Faili allalaadimisel esines viga. Ei saanud kasutada välismälu kirjutamiseks. Palun kontrolli, kas vaba ruum on saadaval.</string>
+    <string name="string_error_exception">"Mängu allalaadimisel esines probleem.
+Palun proovi uuesti."</string>
+    <string name="string_downloading">Alla laadimas...</string>
+    <string name="string_download_finish_dialog_successfull">Allalaadimine õnnestus.</string>
+    <string name="string_button_update">Update</string>
+    <string name="string_button_cancel">Cancel</string>
+    <string name="string_ask_new_version">"A new version of the widget is available.
+Please update to stay tuned for our latest games."</string>
+    <string name="string_confirmation_exit">Kas oled veendunud, et ei taha jätkata?</string>
+    <string name="string_confirmation_cancel">Kas oled veendunud, et tahad tühistada?</string>
+    <string name="string_COMMAND_YES">Jah</string>
+    <string name="string_COMMAND_NO">Ei</string>
+    <string name="COMMAND_SELECT">Vali</string>
+    <string name="COMMAND_NEXT">Järgmine</string>
+    <string name="COMMAND_OK">OK</string>
+    <string name="COMMAND_BACK">Tagasi</string>
+    <string name="COMMAND_EXIT">Välju</string>
+    <string name="COMMAND_YES">Jah</string>
+    <string name="COMMAND_NO">Ei</string>
+    <string name="MENUITEM_MAIN_MENU">Tagasi peamenüüsse</string>
+    <string name="MENUITEM_MAIN_MENU_IGP">Jätka</string>
+    <string name="MENUITEM_MAIN_MENU_IGP_RECOVER">OK</string>
+    <string name="MENUITEM_BUY_FULL_VERSION">Osta mäng</string>
+    <string name="MENUITEM_BUY_NOW">Osta kohe $ eest</string>
+    <string name="MENUITEM_BUY_NOW_PAY_ON_BILL">Hind lisatakse telefoniarvele</string>
+    <string name="MENUITEM_BUY_BOGOF">Osta nüüd</string>
+    <string name="MENUITEM_SEND_SMS">Osta mäng</string>
+    <string name="MENUITEM_PLAY_DEMO">Mängi demot</string>
+    <string name="MENUITEM_SUPPORT">Tugi</string>
+    <string name="MENUITEM_ENTER_PIN">Sisesta ostukood</string>
+    <string name="MENUITEM_HELP">Abi</string>
+    <string name="MENUITEM_LEGAL">Tingimused</string>
+    <string name="MENUITEM_LEGAL_MENU">Tingimused</string>
+    <string name="MENUITEM_LEGAL_GAMELOFT_CLUB">Tasuta mängu pakkumine</string>
+    <string name="MENUITEM_LEGAL_PURCHASE">Otseost (PRICE)</string>
+    <string name="MENUITEM_GAMELOFT_CLUB_FREE">Saad selle mängu tasuta</string>
+    <string name="MENUITEM_GAMELOFT_CLUB">Liitu Gamelofti klubiga</string>
+    <string name="MENUITEM_GAMELOFT_CLUB_READ_AND_ACCEPT">Loe ja aktsepteeri. Liitu nüüd!</string>
+    <string name="MENUITEM_GAMELOFT_CLUB_FULL_LEGAL">Täielikud tingimused</string>
+    <string name="MENUITEM_EXIT">Välju</string>
+    <string name="MENUITEM_PLAY_GAME">Mängi mängu</string>
+    <string name="MENUITEM_SMS_TRY_AGAIN">Proovi uuesti!</string>
+    <string name="MENUITEM_UNLOCK_TRY_AGAIN">Proovi uuesti!</string>
+    <string name="MENUITEM_UNLOCK">Ava</string>
+    <string name="MENUITEM_GET_NEW_UNLOCK_CODE">Taasta avamise kood</string>
+    <string name="MENUITEM_OTHERS">Muud</string>
+    <string name="MENUITEM_OTHER_COUNTRIES">Teised riigid</string>
+    <string name="MENUITEM_OTHER_OPERATORS">Teised operaatorid</string>
+    <string name="MENUITEM_LANGUAGE">Keel</string>
+    <string name="MENUITEM_CHANGE_COUNTRIES">Vaheta riiki</string>
+    <string name="MENUITEM_CANCEL">Tühista</string>
+    <string name="MENUITEM_BUY_NOW_CONFIRM">Osta nüüd</string>
+    <string name="MENUITEM_NOTE_RECOVERY">Jätka</string>
+    <string name="MAINTEXT_MAIN_MENU_TRIALS_REMAINING">Suur tänu, et laadisid alla Gamelofti mängud. Sul on veel $ võimalust.</string>
+    <string name="MAINTEXT_MAIN_MENU_DEMO_TIME">Sa võid mängida seda demot (TIME).</string>
+    <string name="MAINTEXT_MAIN_MENU_DEMO_TRIALS">Sa võid kasutada veel (TRIALS) prooviversiooni.</string>
+    <string name="MAINTEXT_MAIN_MENU_NO_MORE_TRIALS">Vabandame, ent oled ära kasutanud selle demo proovilimiidi. Osta mängu täisversioon ja naudi mängu ilma kitsendusteta!</string>
+    <string name="MAINTEXT_BUY_FULL_VERSION">Selle mängu hind on (PRICE)</string>
+    <string name="MAINTEXT_BUY_FULL_VERSION_TAXES">(+ 1 SMSi hind)</string>
+    <string name="MAINTEXT_GET_ONE_FREE">Sulle pakutakse veel 1 mängu</string>
+    <string name="MAINTEXT_BUY_ONE_GET_ONE_FREE">"Osta see mäng ((PRICE)[ (TAXES)]
+, sulle pakutakse veel 1 mängu"</string>
+    <string name="MAINTEXT_GO_TO_LEGAL">Vajuta 8, et tutvuda tingimustega.</string>
+    <string name="MAINTEXT_GO_TO_LEGAL_TOUCH">Puuduta siin, et tutvuda tingimustega.</string>
+    <string name="MAINTEXT_LEGAL_MENU">Ole kursis iga pakkumise tingimustega:</string>
+    <string name="MAINTEXT_LEGAL">Selle mängu täisversiooni hind on $1. SMS sõnum maksab $2 + tavaline SMSi hind (ostu sooritamiseks on vaja $3 SMS). SMSi saad alates $4. Ostu lõpetamiseks järgi juhendeid. Tellimiseks peab olema piisavalt krediiti. Selle teenuse kasutamiseks pead olema vähemalt 16 aastat vana.</string>
+    <string name="MAINTEXT_SENDING_SMS">Palun oota... Ost on pooleli</string>
+    <string name="MAINTEXT_SENDING_SMS_OVI">Palun oota... Ost Gameloftilt on pooleli</string>
+    <string name="MAINTEXT_SMS_SUCCESS">Toiming õnnestus! 5 minuti jooksul saad SMSi koos PIN-koodiga.</string>
+    <string name="MAINTEXT_SMS_SUCCESS_IGP">Toiming õnnestus! Saad SMSi koos allalaetava lingiga 5 minuti jooksul.</string>
+    <string name="MAINTEXT_SMS_SUCCESS_PROMO">2 mängu saamiseks</string>
+    <string name="MAINTEXT_SMS_FAILED">Ostutoimingut ei ole võimalik teostada. Palun kontrolli internetiühendust. Samuti kontrolli, kas SIM-kaart on defineeritud ja kas sul on piisavalt krediiti.</string>
+    <string name="MAINTEXT_RECOVER_IGP">Ostsid selle mängu. Kas tahad taastada allalaadimislinki?</string>
+    <string name="MAINTEXT_RECOVER_IGP_MO">"Ostsid selle mängu. Kas tahad minna Gamelofti WapShop'i?"</string>
+    <string name="MAINTEXT_DEMO_ENDED">Kas sulle meeldib mäng?</string>
+    <string name="MAINTEXT_UNLOCK_VIRTUAL_KEYPAD">Sisesta ostukood</string>
+    <string name="MAINTEXT_UNLOCK_INPUT">Sisesta ostukood. Tühistamiseks kasuta vasakut noolt</string>
+    <string name="MAINTEXT_UNLOCK_INPUT_GENERIC">Sisesta ostukood. Tühistamiseks kasuta $ nuppu.</string>
+    <string name="MAINTEXT_UNLOCK_INPUT_QWERTY">Palun veendu, et klaviatuur on konfigureeritud õigesti numbrite sisestamiseks.</string>
+    <string name="MAINTEXT_UNLOCK_SUCCESS">Toiming õnnestus!</string>
+    <string name="MAINTEXT_UNLOCK_SUCCESS_CLICK">Mäng on avatud. Klõpsa siin, et kasutada täisversiooni.</string>
+    <string name="MAINTEXT_UNLOCK_FAILED">Vale kood!</string>
+    <string name="MAINTEXT_GAME_NOT_AVAILABLE">See mäng ei ole hetkel saadaval. Palun vali uus mäng või proovi mõne päeva pärast uuesti.</string>
+    <string name="MAINTEXT_INSTALL">Enne jätkamist pead installima andmed $ eest.</string>
+    <string name="MAINTEXT_LOADING">Palun oota</string>
+    <string name="MAINTEXT_WAIT">SMSi teenus viibib. Saad avada mängu hiljem, siis kui server töötleb SMSi.</string>
+    <string name="MAINTEXT_UNLOCK_SUCCESS_SILENT">Ostutoiming õnnestus. Naudi mängu!</string>
+    <string name="MAINTEXT_HELP">Peaksid saama mängu avamise koodi 5 minuti jooksul. Vaata oma sisendkasti! Vahepeal võid ikkagi tutvuda demoga! Probleemide esinemisel saada meil aadressil android.support@gameloft.com</string>
+    <string name="MAINTEXT_HELP_NO_IMPUT_CODE">Peaksid saama mängu avamise sõnumi 5 minuti jooksul. Kui saad selle, vali täisversiooni avamise teade. Vahepeal võid ikkagi mängida demot! Probleemide esinemisel võta palun ühendust aadressil android.support@gameloft.com</string>
+    <string name="MAINTEXT_PLAY_GAME">Proovi mängu $ eest. Osta mäng ja naudi seda ilma kitsendusteta!</string>
+    <string name="MAINTEXT_SUPPORT">"Info ja klienditeenindus: 
+ www.gameloft.com 
+ support@gameloft.com"</string>
+    <string name="MAINTEXT_CONFIRMATION_SMS_CLOSE">SMS saadetakse. Jätkamiseks rakendus sulgub. Kas oled kindel?</string>
+    <string name="MAINTEXT_CONFIRMATION_SMS">SMS saadetakse. Kas tahad jätkata?</string>
+    <string name="MAINTEXT_CONFIRMATION_WAP_CLOSE">Telefoni brauser avaneb. Jätkamiseks rakendus sulgub. Kas oled kindel?</string>
+    <string name="MAINTEXT_CONFIRMATION_WAP">Telefoni brauser avaneb. Kas tahad jätkata?</string>
+    <string name="MAINTEXT_CONFIRMATION_EXIT">Kas oled veendunud, et tahad katkestada?</string>
+    <string name="MAINTEXT_SELECT_COUNTRY">Palun vali oma riik</string>
+    <string name="MAINTEXT_SELECT_CARRIER">Palun vali oma operaator.</string>
+    <string name="MAINTEXT_SELECT_CARRIER_NEW">Palun vali operaator ja osta mäng ([PRICE] + SMSi hind)</string>
+    <string name="MAINTEXT_SELECT_LANGUAGE">Palun vali oma keel</string>
+    <string name="MAINTEXT_LANDSCAPE_MODE">Sellel mängul puudub tugi maastiku režiimis. Palun kasuta portree režiimi.</string>
+    <string name="MAINTEXT_PORTRAIT_MODE">Sellel mängul puudub tugi portree režiimis. Palun lülita seade tagasi maastiku režiimi.</string>
+    <string name="MAINTEXT_SMS_CONFIRM">Selle mängu aktiveerimiseks sisesta palun kood lahtris. 50 SMSi / 100 krediiti. Kõik maksud on hinna sees. Kinnitamise kood: (CODE)</string>
+    <string name="MAINTEXT_SMS_CONFIRM_AUSTRALIA">Mängu ostmiseks sisesta kinnituskood (CODE) vastavas lahtris</string>
+    <string name="MAINTEXT_SMS_CONFIRM_INFO">Kui sul ei ole piisavalt krediiti, laetakse mängud vastavalt olemasolevale krediidile.</string>
+    <string name="MAINTEXT_SPECIAL_SMS_CONFIRM">"(PRICE) ja SMSi tavahind lisatakse mobiiltelefoni arvele või arvestatakse maha eelmakstud teenuselt.
+
+Vali ,,Osta nüüd, kinnita, et oled  vähemalt 16aastane ja sul on arvemaksjalt luba selle ostu tegemiseks."</string>
+    <string name="MAINTEXT_RECOVERY">"Peaksid saama mängu avamise koodi 5 minuti jooksul. Kontrolli sisendkasti!
+Vahepeal saad ikka mängida demot või võid alustada uuesti ostuprotsessiga ja osta teise avakoodi, selleks vali ,,Jätka."</string>
+    <string name="MAINTEXT_MINUTE">(MINUTE) minut(it)</string>
+    <string name="MAINTEXT_MINUTES">(MINUTE) minut(it)</string>
+    <string name="MAINTEXT_SECOND">(SECOND) sekund(it)</string>
+    <string name="MAINTEXT_MINUTE_AND_SECOND">(MINUTE) minut(it) (SECOND) sekund(it)</string>
+    <string name="MAINTEXT_MINUTES_AND_SECOND">(MINUTE) minut(it) (SECOND) sekund(it)</string>
+    <string name="MAINTEXT_GO_TO_BUY_TOUCH">Puuduta siin, et seda osta</string>
+    <string name="LANGUAGE">Eesti</string>
+    <string name="HEP_DEVICE_INVALID">Seda mängu saab kasutada ainult (DEVICE_NAMES).</string>
+</resources>

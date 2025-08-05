@@ -1,0 +1,36 @@
+MIDlet-Name: Kingdoms and Lords
+MIDlet-Vendor: Gameloft SA
+MIDlet-1: Kingdoms and Lords, /icon.png, GloftAI03
+MIDlet-Icon: /icon.png
+MIDlet-Description: Ever dreamt of being a King? Time to make it true!
+MIDlet-Version: 1.0.0
+MIDlet-Data-Size: 32000
+MIDlet-Touch-Support: true
+MIDlet-Scaleup-Support: false
+URL-SUPPORT: http://ingameads.gameloft.com/redir/?from=AI03&op=BFLL&ctg=SUPPORT
+URL-PRIVACY: http://ingameads.gameloft.com/redir/?from=AI03&op=BFLL&ctg=PRIVACY
+MIDlet-Jar-Size: 6339963
+URL-TEMPLATE-GAME: http://ingameads.gameloft.com/redir/?from=ZOOM&op=BFL4&game=XXXX&ver=2.5.2d
+URL-OPERATOR: http://ingameads.gameloft.com/redir/?from=ZOOM&op=BFL4&ver=2.5.2d
+TITLE-FREEMIUM: 0
+TITLE-GLCLUB: 0
+IGP-PROMOS: TR2M=TR2M;DIH5=DIH5;
+IGP-FREEMIUM: TCMF=TCMF;
+IGP-CATEGORIES: SCFR=SCFR;GMCL=GMCL;CCTL=CCTL;
+IGP-VERSION: 2.5.2d
+GAME-PRODUCT-ID: 1651
+GAME-GGI: 57631
+VERSION-PUSH: 1.0.0
+GAME-PLATFORM: android
+GAME-SHOP: shop
+EVE-SERVICE-URL: http://eve.gameloft.com:20001
+URL-UPDATE: http://confirmation.gameloft.com/partners/android/v2/update_check_hep.php?igpcode=AI03&lvl=17&ver=1.0.3&test=1&v=2.0
+MIDlet-Jar-URL: KingdomsAndLords_Samsung_A300M_IGP_LATAM_ML_IAP_TS_100.jar
+IAP-EnableIAP: 1
+IAP-GameCodeIGP: AI03
+IAP-PhoneModel: 9696
+IAP-DynamicFeedURL: 
+IAP-GoogleDeveloperKey: 
+IAP-EnableCreditCard: 0
+Has-Push-Notification: 1
+IGP-WELCOME: 0

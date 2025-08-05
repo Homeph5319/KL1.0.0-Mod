@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CODE">DA</string>
+    <string name="string_app_name">100% Games!</string>
+    <string name="string_error_io_exception">Der opstod en fejl ved download af filen. Den kunne ikke gemmes på den eksterne lagerenhed. Kontrollér, om der er ledig plads på enheden.</string>
+    <string name="string_error_exception">"Der opstod en fejl ved download af spillet.
+Prøv igen."</string>
+    <string name="string_downloading">Downloader ...</string>
+    <string name="string_download_finish_dialog_successfull">Download gennemført.</string>
+    <string name="string_button_update">Update</string>
+    <string name="string_button_cancel">Cancel</string>
+    <string name="string_ask_new_version">"A new version of the widget is available.
+Please update to stay tuned for our latest games."</string>
+    <string name="string_confirmation_exit">Er du sikker på, at du vil afslutte?</string>
+    <string name="string_confirmation_cancel">Er du sikker på, at du vil afslutte?</string>
+    <string name="string_COMMAND_YES">Ja</string>
+    <string name="string_COMMAND_NO">Nej</string>
+    <string name="COMMAND_SELECT">Vælg</string>
+    <string name="COMMAND_NEXT">Næste</string>
+    <string name="COMMAND_OK">OK</string>
+    <string name="COMMAND_BACK">Tilbage</string>
+    <string name="COMMAND_EXIT">Afslut</string>
+    <string name="COMMAND_YES">Ja</string>
+    <string name="COMMAND_NO">Nej</string>
+    <string name="MENUITEM_MAIN_MENU">Tilbage til hovedmenu</string>
+    <string name="MENUITEM_MAIN_MENU_IGP">Fortsæt</string>
+    <string name="MENUITEM_MAIN_MENU_IGP_RECOVER">OK</string>
+    <string name="MENUITEM_BUY_FULL_VERSION">Hent spillet</string>
+    <string name="MENUITEM_BUY_NOW">Køb nu for $</string>
+    <string name="MENUITEM_BUY_NOW_PAY_ON_BILL">Betal via min telefonregning</string>
+    <string name="MENUITEM_BUY_BOGOF">Hent det nu</string>
+    <string name="MENUITEM_SEND_SMS">Hent spillet</string>
+    <string name="MENUITEM_PLAY_DEMO">Spil demo</string>
+    <string name="MENUITEM_SUPPORT">Support</string>
+    <string name="MENUITEM_ENTER_PIN">Skriv købskoden</string>
+    <string name="MENUITEM_HELP">Hjælp</string>
+    <string name="MENUITEM_LEGAL">Betingelser og vilkår</string>
+    <string name="MENUITEM_LEGAL_MENU">Betingelser og vilkår</string>
+    <string name="MENUITEM_LEGAL_GAMELOFT_CLUB">Tilbud med gratis spil</string>
+    <string name="MENUITEM_LEGAL_PURCHASE">Direkte køb (PRIS)</string>
+    <string name="MENUITEM_GAMELOFT_CLUB_FREE">Få spillet gratis</string>
+    <string name="MENUITEM_GAMELOFT_CLUB">Vær med i Gameloft Club</string>
+    <string name="MENUITEM_GAMELOFT_CLUB_READ_AND_ACCEPT">Læs og acceptér – vær med nu!</string>
+    <string name="MENUITEM_GAMELOFT_CLUB_FULL_LEGAL">Fulde betingelser og vilkår</string>
+    <string name="MENUITEM_EXIT">Afslut</string>
+    <string name="MENUITEM_PLAY_GAME">Spil spillet</string>
+    <string name="MENUITEM_SMS_TRY_AGAIN">Prøv igen!</string>
+    <string name="MENUITEM_UNLOCK_TRY_AGAIN">Prøv igen!</string>
+    <string name="MENUITEM_UNLOCK">Åbn</string>
+    <string name="MENUITEM_GET_NEW_UNLOCK_CODE">Hent oplåsningskode</string>
+    <string name="MENUITEM_OTHERS">Andre</string>
+    <string name="MENUITEM_OTHER_COUNTRIES">Andre lande</string>
+    <string name="MENUITEM_OTHER_OPERATORS">Andre operatører</string>
+    <string name="MENUITEM_LANGUAGE">Sprog</string>
+    <string name="MENUITEM_CHANGE_COUNTRIES">Skift land</string>
+    <string name="MENUITEM_CANCEL">Annullér</string>
+    <string name="MENUITEM_BUY_NOW_CONFIRM">Køb nu</string>
+    <string name="MENUITEM_NOTE_RECOVERY">Fortsæt</string>
+    <string name="MAINTEXT_MAIN_MENU_TRIALS_REMAINING">Tak, fordi du downloader Gamelofts spil. Du har $ prøvegang(e) tilbage.</string>
+    <string name="MAINTEXT_MAIN_MENU_DEMO_TIME">Du kan spille denne demo i (TIME).</string>
+    <string name="MAINTEXT_MAIN_MENU_DEMO_TRIALS">Du har (TRIALS) prøvespil tilbage.</string>
+    <string name="MAINTEXT_MAIN_MENU_NO_MORE_TRIALS">Vi beklager, men du har nået grænsen for antal prøvespil med denne demo. Køb hele spillet for at nyde det uden begrænsninger!</string>
+    <string name="MAINTEXT_BUY_FULL_VERSION">Spillet koster (PRICE)</string>
+    <string name="MAINTEXT_BUY_FULL_VERSION_TAXES">(+ alm. SMS-takst)</string>
+    <string name="MAINTEXT_GET_ONE_FREE">Et ekstra spil</string>
+    <string name="MAINTEXT_BUY_ONE_GET_ONE_FREE">"Hent dette spil, ((PRICE)[ (TAXES)])
+, og få et ekstra spil"</string>
+    <string name="MAINTEXT_GO_TO_LEGAL">Tryk på 8 for at se Betingelser og vilkår.</string>
+    <string name="MAINTEXT_GO_TO_LEGAL_TOUCH">Tryk her for at se Betingelser og vilkår.</string>
+    <string name="MAINTEXT_LEGAL_MENU">Læs betingelser og vilkår for hvert tilbud:</string>
+    <string name="MAINTEXT_LEGAL">"Den fulde version af dette spil koster $1. For hver sms opkræves der $2 + almindelig sms-takst (du skal bruge $3 sms'er for at gennemføre dit køb). Du modtager en sms fra $4. Følg vejledningen for at gennemføre købsprocessen. Du skal have nok penge til at modtage din ordre. Du skal være mindst 16 år for at bruge denne tjeneste."</string>
+    <string name="MAINTEXT_SENDING_SMS">Vent venligst ... Købet er i gang</string>
+    <string name="MAINTEXT_SENDING_SMS_OVI">Vent venligst ... Købet hos Gameloft behandles</string>
+    <string name="MAINTEXT_SMS_SUCCESS">Købet er gennemført! Du vil modtage en sms med pinkoden inden for fem minutter.</string>
+    <string name="MAINTEXT_SMS_SUCCESS_IGP">Processen blev gennemført! I løbet af fem minutter modtager du en sms med linket til download.</string>
+    <string name="MAINTEXT_SMS_SUCCESS_PROMO">så du kan hente dine to spil.</string>
+    <string name="MAINTEXT_SMS_FAILED">Købet kunne ikke gennemføres. Sørg for, at du er tilsluttet et netværk, samt at dit SIM-kort er registreret, og at du har tilstrækkelige betalingsmidler.</string>
+    <string name="MAINTEXT_RECOVER_IGP">Du har købt dette spil. Vil du gendanne download-linket?</string>
+    <string name="MAINTEXT_RECOVER_IGP_MO">Du har købt dette spil. Vil du gå til Gameloft WapShop?</string>
+    <string name="MAINTEXT_DEMO_ENDED">Kunne du lide spillet?</string>
+    <string name="MAINTEXT_UNLOCK_VIRTUAL_KEYPAD">Indtast købskoden.</string>
+    <string name="MAINTEXT_UNLOCK_INPUT">Indtast købskoden. Ryd feltet med venstre pil.</string>
+    <string name="MAINTEXT_UNLOCK_INPUT_GENERIC">Indtast købskoden. Slet med $-tasten.</string>
+    <string name="MAINTEXT_UNLOCK_INPUT_QWERTY">Sørg for, at tastaturet er konfigureret til tal.</string>
+    <string name="MAINTEXT_UNLOCK_SUCCESS">Købet er gennemført!</string>
+    <string name="MAINTEXT_UNLOCK_SUCCESS_CLICK">Dit spil er åbnet. Klik her for at spille hele spillet.</string>
+    <string name="MAINTEXT_UNLOCK_FAILED">Forkert kode!</string>
+    <string name="MAINTEXT_GAME_NOT_AVAILABLE">Spillet kan ikke købes. Vælg et andet spil, eller forsøg igen om et par dage.</string>
+    <string name="MAINTEXT_INSTALL">Du skal installere data for $, før du fortsætter.</string>
+    <string name="MAINTEXT_LOADING">Vent venligst</string>
+    <string name="MAINTEXT_WAIT">"Der er en forsinkelse i svaret fra sms-serveren. Spillet bliver låst op senere, når serveren får adgang til sms'en."</string>
+    <string name="MAINTEXT_UNLOCK_SUCCESS_SILENT">Købet blev gennemført. Nyd spillet!</string>
+    <string name="MAINTEXT_HELP">Du bør modtage åbningskoden inden for fem minutter. Kig i din indbakke! Du kan stadig spille demoen i mellemtiden! Hvis du oplever problemer, kan du kontakte android.support@gameloft.com</string>
+    <string name="MAINTEXT_HELP_NO_IMPUT_CODE">Du bør modtage åbningsbeskeden inden for fem minutter. Når du har modtaget den, skal du vælge meddelelsen for at åbne hele spillet. Du kan stadig spille demoen i mellemtiden! Hvis du oplever problemer, kan du kontakte android.support@gameloft.com</string>
+    <string name="MAINTEXT_PLAY_GAME">Du kan prøve spillet i $. Hent spillet for at nyde det uden begrænsninger!</string>
+    <string name="MAINTEXT_SUPPORT">"Information og kundeservice: 
+ www.gameloft.com 
+ support@gameloft.com"</string>
+    <string name="MAINTEXT_CONFIRMATION_SMS_CLOSE">Der bliver sendt en sms. Applikationen lukkes, for at du kan fortsætte. Er du sikker?</string>
+    <string name="MAINTEXT_CONFIRMATION_SMS">Der bliver sendt en sms. Ønsker du at fortsætte?</string>
+    <string name="MAINTEXT_CONFIRMATION_WAP_CLOSE">Telefonens browser bliver åbnet. Applikationen lukkes, så du kan fortsætte. Er du sikker?</string>
+    <string name="MAINTEXT_CONFIRMATION_WAP">Telefonens browser bliver åbnet. Ønsker du at fortsætte?</string>
+    <string name="MAINTEXT_CONFIRMATION_EXIT">Er du sikker på, at du vil afslutte?</string>
+    <string name="MAINTEXT_SELECT_COUNTRY">Vælg dit land</string>
+    <string name="MAINTEXT_SELECT_CARRIER">Vælg din operatør</string>
+    <string name="MAINTEXT_SELECT_CARRIER_NEW">Vælg venligst din udbyder for at købe spillet ([PRICE] + sms-pris)</string>
+    <string name="MAINTEXT_SELECT_LANGUAGE">Vælg dit sprog</string>
+    <string name="MAINTEXT_LANDSCAPE_MODE">Dette spil understøtter ikke landskabsvisning. Vælg venligst portrætvisning for dit håndsæt.</string>
+    <string name="MAINTEXT_PORTRAIT_MODE">Dette spil understøtter ikke portrætvisning. Vælg venligst landskabsvisning for din enhed.</string>
+    <string name="MAINTEXT_SMS_CONFIRM">"Du skal indtaste koden i feltet for at aktivere dette spil. 50 sms'er / 100 credits. Alle skatter er inkluderet i prisen. Bekræftelseskode: (CODE)"</string>
+    <string name="MAINTEXT_SMS_CONFIRM_AUSTRALIA">Indtast bekræftelseskoden (CODE) i feltet for at købe spillet.</string>
+    <string name="MAINTEXT_SMS_CONFIRM_INFO">Hvis du ikke har nok credits, skal du betale delvist for spillene.</string>
+    <string name="MAINTEXT_SPECIAL_SMS_CONFIRM">"(PRICE) plus sms-standardtakst bliver betalt via din mobiltelefonregning eller trukket fra din forudbetalte kredit.
+
+Ved at vælge Køb nu bekræfter du, at du er over 16, og at regningens ansvarshavende har givet dig tilladelse til at foretage købet."</string>
+    <string name="MAINTEXT_RECOVERY">"Du burde modtage oplåsningskoden inden for fem minutter. Se i din indbakke!
+I mellemtiden kan du stadig spille demoen, eller du kan genstarte købsprocessen og købe en ny oplåsningskode ved at vælge at fortsætte."</string>
+    <string name="MAINTEXT_MINUTE">(MINUTE) Minut</string>
+    <string name="MAINTEXT_MINUTES">(MINUTE) Minutter</string>
+    <string name="MAINTEXT_SECOND">(SECOND) Sekunder</string>
+    <string name="MAINTEXT_MINUTE_AND_SECOND">(MINUTE) minut (SECOND) sekunder</string>
+    <string name="MAINTEXT_MINUTES_AND_SECOND">(MINUTE) minutter (SECOND) sekunder</string>
+    <string name="MAINTEXT_GO_TO_BUY_TOUCH">Tryk her for at købe det</string>
+    <string name="LANGUAGE">Dansk</string>
+    <string name="HEP_DEVICE_INVALID">Dette spil kan kun bruges på (DEVICE_NAMES).</string>
+</resources>

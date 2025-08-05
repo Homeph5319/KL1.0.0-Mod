@@ -1,0 +1,2 @@
+CountryCode: 
+SMSFullGameURL:"http://ingameads.gameloft.com/redir/?from=W692&game=COWB&op=BFLL&game_type=DM&lg=EN"; 

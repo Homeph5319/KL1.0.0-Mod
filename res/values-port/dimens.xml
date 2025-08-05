@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="center_menu_height">380.0dip</dimen>
+    <dimen name="button_width">260.0dip</dimen>
+    <dimen name="text_size">20.0dip</dimen>
+    <dimen name="bottom_bar_size">55.0dip</dimen>
+    <dimen name="gameloft_logo_layout_height">95.0dip</dimen>
+    <dimen name="input_code_text_view_height">40.0dip</dimen>
+</resources>

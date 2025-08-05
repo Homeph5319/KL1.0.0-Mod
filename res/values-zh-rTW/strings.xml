@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_ok">确认</string>
+    <string name="btn_canel">Cancel</string>
+    <string name="title_payment_selection">Select payment method</string>
+    <string name="cnt_resend_confirmation_india">将收取一条短信的费用： Rs. 3/-。确定吗？</string>
+    <string name="btn_yes">是</string>
+    <string name="btn_no">否</string>
+    <string name="IAP_SAMSUNG_DIALOG_TITLE">In-App Purchase</string>
+    <string name="IAP_SAMSUNG_UPGRADE_REQUIRED">需安裝 Samsung In-App Purchase 更新。您要繼續嗎？</string>
+    <string name="IAP_SAMSUNG_CLIENT_NOT_INSTALLED">此裝置未安裝 Samsung In-App Purchase。您要安裝此程式嗎？</string>
+    <string name="IAP_SAMSUNG_APP_STORE_NOT_INSTALLED">目前無法使用 Samsung Store 服務。您可以繼續使用本應用程式，但無法購物。</string>
+    <string name="IAP_SAMSUNG_ERROR_ALREADY_PURCHASED">您已購買過此商品。本次消費不會向您的帳戶扣款。</string>
+    <string name="IAP_SAMSUNG_WAITING">請稍候…</string>
+    <string name="IAP_SAMSUNG_OK_BUTTON">確定</string>
+    <string name="IAP_SAMSUNG_CANCEL_BUTTON">取消</string>
+    <string name="string_app_name">100%遊戲！</string>
+    <string name="string_error_io_exception">下載檔案出錯。無法寫入外部記憶體。請檢查是否有足夠空間。</string>
+    <string name="string_error_exception">下載檔案出錯，發生異常。</string>
+    <string name="string_downloading">下載中...</string>
+    <string name="string_download_finish_dialog_successfull">下載成功</string>
+    <string name="string_button_update">更新</string>
+    <string name="string_button_cancel">取消</string>
+    <string name="string_ask_new_version">小工具有新版本了。請更新以便繼續關注我們的最新遊戲。</string>
+    <string name="string_confirmation_exit">你確定要取消嗎？</string>
+    <string name="string_confirmation_cancel">你確定要取消嗎？</string>
+    <string name="string_COMMAND_YES">是</string>
+    <string name="string_COMMAND_NO">否</string>
+</resources>

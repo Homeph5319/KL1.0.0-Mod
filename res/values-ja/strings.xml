@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cs_title">お住まいの国と携帯電話キャリアを選択してください。</string>
+    <string name="cs_label_country">国：</string>
+    <string name="cs_label_operator">キャリア：</string>
+    <string name="cs_btn_ok">OK</string>
+    <string name="cs_btn_cancel">キャンセル</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_canel">キャンセル</string>
+    <string name="title_payment_selection">支払い方法を選択</string>
+    <string name="credit_card">クレジットカード</string>
+    <string name="cnt_resend_confirmation_india">SMS料金| Rs. 3/-が|かかります。|よろしいですか？</string>
+    <string name="btn_yes">はい</string>
+    <string name="btn_no">いいえ</string>
+    <string name="CODE">JA</string>
+    <string name="GAME_STARTUP">保護者の方へ 『NameOfTheGame』は無料でダウンロードしてプレイできるゲームです。またNameOfTheSoftCurrencyやNameOfTheHardCurrencyを購入することで様々なコンテンツをご利用いただけます。 アプリ内課金の制限をご希望の場合は「ヘルプ」をご覧ください。 またゲームをプレイすることで、お客様はアプリケーションをダウンロードしていただいたストアにある本アプリケーションに関する使用許諾契約を読んで理解し、全てに同意したものとみなします。</string>
+    <string name="GAME_STARTUP_WITHOUT_SOFTCURRENCY">保護者の方へ 『[Name of the game]』は無料でダウンロードしてプレイできるゲームです。またNameOfTheHardCurrencyを購入することで様々なコンテンツをご利用いただけます。 アプリ内課金の制限をご希望の場合は「ヘルプ」をご覧ください。 またゲームをプレイすることで、お客様はアプリケーションをダウンロードしていただいたストアにある本アプリケーションに関する使用許諾契約を読んで理解し、全てに同意したものとみなします。</string>
+    <string name="HELP_SECTION">保護者の方へ 『NameOfTheGame』は無料でダウンロードしてプレイできるゲームです。またNameOfTheSoftCurrencyやNameOfTheHardCurrencyを購入することで様々なコンテンツをご利用いただけます。 お子様がゲーム内で課金をすることを制限したい場合は、ご利用のデバイスの設定を変更してください。デバイスの設定を変更して制限を設けることでアプリ内課金の管理を行うことができます。 弊社は意図しない課金や重複課金を防ぐため、アプリ内課金に制限を設けております。</string>
+    <string name="HELP_SECTION_WITHOUT_SOFTCURRENCY">保護者の方へ 『[Name of the game]』は無料でダウンロードしてプレイできるゲームです。またNameOfTheHardCurrencyを購入することで様々なコンテンツをご利用いただけます。 お子様がゲーム内で課金をすることを制限したい場合は、ご利用のデバイスの設定を変更してください。デバイスの設定を変更して制限を設けることでアプリ内課金の管理を行うことができます。</string>
+    <string name="HELP_SECTION_GOOGLEPLAY">パスワードを利用することでGoogle Playにおけるアプリ内課金をお客様本人のご利用のみに制限することができます。方法は以下をご参照ください。 - Google Play >> メニューキーを押す >> 設定 >> ユーザーコントロール - 「購入にPINを使用する」または「パスワード - パスワードを使用して購入を制限する」を選択（PIN/パスワードの入力が要求されます） パスワードはお子様の目の届かないところに保管してください。 詳細につきましてはご利用のデバイスの取扱説明書をご確認ください。またはデバイス製造元にお問い合わせください。 弊社は意図しない課金や重複課金を防ぐため、アプリ内課金に制限を設けております。</string>
+    <string name="HELP_SECTION_AMAZON">アプリ内課金の際にAmazonのパスワード入力を求めるよう設定することで、意図しない課金を防ぐことができます。方法は以下をご参照ください。 - Amazonアプリストア >> メニューキーを押す >> 設定 >> ペアレンタルコントロール - ペアレンタルコントロールを有効にする（お客様のAmazonのパスワードの入力が要求されます） パスワードはお子様の目の届かないところに保管してください。 弊社は意図しない課金や重複課金を防ぐため、アプリ内課金に制限を設けております。</string>
+    <string name="COSTS_REAL_MONEY">有料</string>
+    <string name="IAP_SAMSUNG_DIALOG_TITLE">In-App Purchase</string>
+    <string name="IAP_SAMSUNG_UPGRADE_REQUIRED">Samsung In-App Purchaseをアップグレードする必要があります。続けますか？</string>
+    <string name="IAP_SAMSUNG_CLIENT_NOT_INSTALLED">デバイスにSamsung In-App Purchaseがインストールされていません。インストールしますか？</string>
+    <string name="IAP_SAMSUNG_APP_STORE_NOT_INSTALLED">Samsung Storeサービスは現在利用できない状態となっているため、購入できません。（ゲームは通常通りプレイできます。）</string>
+    <string name="IAP_SAMSUNG_ERROR_ALREADY_PURCHASED">このアイテムは既に購入済みです。アカウントに料金が請求されることはありません。</string>
+    <string name="IAP_SAMSUNG_WAITING">しばらくお待ち下さい…</string>
+    <string name="IAP_SAMSUNG_OK_BUTTON">Ok</string>
+    <string name="IAP_SAMSUNG_CANCEL_BUTTON">キャンセル</string>
+    <string name="string_app_name">100% Games!</string>
+    <string name="string_error_io_exception">ファイルをダウンロードできませんでした。外部記憶装置に書き込めませんでした。空き容量があるか確認してください。</string>
+    <string name="string_error_exception">"ファイルをダウンロードできませんでした。
+例外が発生しました。"</string>
+    <string name="string_downloading">ダウンロー中…</string>
+    <string name="string_download_finish_dialog_successfull">ダウンロードが完了しました。。</string>
+    <string name="string_button_update">アップデート</string>
+    <string name="string_button_cancel">キャンセル</string>
+    <string name="string_ask_new_version">ウィジェットの新バージョンがあります。アップデートして最新のゲームをチェックしましょう！</string>
+</resources>

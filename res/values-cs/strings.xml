@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CODE">CS</string>
+    <string name="string_app_name">100% Games!</string>
+    <string name="string_error_io_exception">Při stahování souboru došlo k chybě. Nelze zapisovat do externího úložiště. Zkontrolujte, zda je k dispozici volné místo.</string>
+    <string name="string_error_exception">"Při stahování hry došlo k potížím.
+Zkuste to znovu."</string>
+    <string name="string_downloading">Stahování...</string>
+    <string name="string_download_finish_dialog_successfull">Stažení bylo úspěšné.</string>
+    <string name="string_button_update">Update</string>
+    <string name="string_button_cancel">Cancel</string>
+    <string name="string_ask_new_version">"A new version of the widget is available.
+Please update to stay tuned for our latest games."</string>
+    <string name="string_confirmation_exit">Opravdu chcete odejít?</string>
+    <string name="string_confirmation_cancel">Opravdu chcete zrušit?</string>
+    <string name="string_COMMAND_YES">Ano</string>
+    <string name="string_COMMAND_NO">Ne</string>
+    <string name="COMMAND_SELECT">Vybrat</string>
+    <string name="COMMAND_NEXT">Další</string>
+    <string name="COMMAND_OK">OK</string>
+    <string name="COMMAND_BACK">Zpět</string>
+    <string name="COMMAND_EXIT">Ukončit</string>
+    <string name="COMMAND_YES">Ano</string>
+    <string name="COMMAND_NO">Ne</string>
+    <string name="MENUITEM_MAIN_MENU">Zpět do hl. nabídky</string>
+    <string name="MENUITEM_MAIN_MENU_IGP">Pokračovat</string>
+    <string name="MENUITEM_MAIN_MENU_IGP_RECOVER">OK</string>
+    <string name="MENUITEM_BUY_FULL_VERSION">Získat hru</string>
+    <string name="MENUITEM_BUY_NOW">Koupit za $</string>
+    <string name="MENUITEM_BUY_NOW_PAY_ON_BILL">Zaplatit na telefonním účtu</string>
+    <string name="MENUITEM_BUY_BOGOF">Stáhnout</string>
+    <string name="MENUITEM_SEND_SMS">Získat hru</string>
+    <string name="MENUITEM_PLAY_DEMO">Hrát demoverzi</string>
+    <string name="MENUITEM_SUPPORT">Podpora</string>
+    <string name="MENUITEM_ENTER_PIN">Zadej kód nákupu</string>
+    <string name="MENUITEM_HELP">Nápověda</string>
+    <string name="MENUITEM_LEGAL">Podmínky</string>
+    <string name="MENUITEM_LEGAL_MENU">Podmínky</string>
+    <string name="MENUITEM_LEGAL_GAMELOFT_CLUB">Nabídka bezplatné hry</string>
+    <string name="MENUITEM_LEGAL_PURCHASE">Přímý nákup (CENA)</string>
+    <string name="MENUITEM_GAMELOFT_CLUB_FREE">Získej tuto hru zdarma</string>
+    <string name="MENUITEM_GAMELOFT_CLUB">Vstup do klubu Gameloft</string>
+    <string name="MENUITEM_GAMELOFT_CLUB_READ_AND_ACCEPT">Přečíst a přijmout. Přidej se už teď!</string>
+    <string name="MENUITEM_GAMELOFT_CLUB_FULL_LEGAL">Úplné podmínky</string>
+    <string name="MENUITEM_EXIT">Ukončit</string>
+    <string name="MENUITEM_PLAY_GAME">Hrát hru</string>
+    <string name="MENUITEM_SMS_TRY_AGAIN">Zkus to znovu!</string>
+    <string name="MENUITEM_UNLOCK_TRY_AGAIN">Zkus to znovu!</string>
+    <string name="MENUITEM_UNLOCK">Odemknout</string>
+    <string name="MENUITEM_GET_NEW_UNLOCK_CODE">Získat odemykací kód</string>
+    <string name="MENUITEM_OTHERS">Jiné</string>
+    <string name="MENUITEM_OTHER_COUNTRIES">Ostatní země</string>
+    <string name="MENUITEM_OTHER_OPERATORS">Jiní operátoři</string>
+    <string name="MENUITEM_LANGUAGE">Jazyk</string>
+    <string name="MENUITEM_CHANGE_COUNTRIES">Změnit zemi</string>
+    <string name="MENUITEM_CANCEL">Zrušit</string>
+    <string name="MENUITEM_BUY_NOW_CONFIRM">Koupit nyní</string>
+    <string name="MENUITEM_NOTE_RECOVERY">Pokračovat</string>
+    <string name="MAINTEXT_MAIN_MENU_TRIALS_REMAINING">Děkujeme za stažení her od Gameloftu. Zbývající pokusy: $.</string>
+    <string name="MAINTEXT_MAIN_MENU_DEMO_TIME">Tuto demoverzi můžeš hrát (TIME).</string>
+    <string name="MAINTEXT_MAIN_MENU_DEMO_TRIALS">Zbývající počet zkušebních her: (TRIALS).</string>
+    <string name="MAINTEXT_MAIN_MENU_NO_MORE_TRIALS">Omlouváme se, ale dosáhl jsi zkušebního limitu pro toto demo. Kup si plnou hru a užij si ji bez omezení!</string>
+    <string name="MAINTEXT_BUY_FULL_VERSION">Tato hra bude stát (PRICE)</string>
+    <string name="MAINTEXT_BUY_FULL_VERSION_TAXES">(+ cena 1 SMS)</string>
+    <string name="MAINTEXT_GET_ONE_FREE">Je nabízena 1 hra navíc</string>
+    <string name="MAINTEXT_BUY_ONE_GET_ONE_FREE">"Kup tuto hru ((PRICE)[ (TAXES)])
+Je nabízena 1 hra navíc"</string>
+    <string name="MAINTEXT_GO_TO_LEGAL">Stisknutím tlačítka 8 zobrazíte podmínky.</string>
+    <string name="MAINTEXT_GO_TO_LEGAL_TOUCH">Stisknutím tohoto místa zobrazíte podmínky.</string>
+    <string name="MAINTEXT_LEGAL_MENU">Znejte podmínky každé nabídky:</string>
+    <string name="MAINTEXT_LEGAL">Plná verze této hry stojí $1. Každá SMS zpráva stojí $2 + normální cena zprávy (k dokončení nákupu budeš potřebovat $3 SMS). Obdržíš SMS od $4. Řiď se instrukcemi, abys dokončil nákup. Musíš mít dostatečný kredit, aby byla tvoje objednávka vyřízena. Chceš-li používat tuto službu, musí ti být šestnáct nebo více let.</string>
+    <string name="MAINTEXT_SENDING_SMS">Počkej prosím... Probíhá nákup</string>
+    <string name="MAINTEXT_SENDING_SMS_OVI">Počkej prosím... Probíhá nákup u společnosti Gameloft</string>
+    <string name="MAINTEXT_SMS_SUCCESS">Operace byla úspěšná! Do 5 minut obdržíš SMS s kódem PIN.</string>
+    <string name="MAINTEXT_SMS_SUCCESS_IGP">Operace byla úspěšná! Během 5 minut obdržíš SMS s odkazem pro stažení.</string>
+    <string name="MAINTEXT_SMS_SUCCESS_PROMO">, abys mohl získat své 2 hry</string>
+    <string name="MAINTEXT_SMS_FAILED">Nákup nebyl dokončen. Ujisti se, že jsi připojen/a k síti, že je tvoje SIM karta definována a že máš dostatečný kredit.</string>
+    <string name="MAINTEXT_RECOVER_IGP">Tuto hru jsi zakoupil/a. Chceš získat odkaz pro stažení?</string>
+    <string name="MAINTEXT_RECOVER_IGP_MO">Tuto hru jsi zakoupil/a. Chceš přejít do obchodu Gameloft WapShop?</string>
+    <string name="MAINTEXT_DEMO_ENDED">Líbila se ti tato hra?</string>
+    <string name="MAINTEXT_UNLOCK_VIRTUAL_KEYPAD">Zadej kód nákupu</string>
+    <string name="MAINTEXT_UNLOCK_INPUT">Zadej kód nákupu. Šipkou vlevo můžeš mazat.</string>
+    <string name="MAINTEXT_UNLOCK_INPUT_GENERIC">Zadej nákupní kód. Tlačítkem $ vymažeš.</string>
+    <string name="MAINTEXT_UNLOCK_INPUT_QWERTY">Zkontroluj, zda je klávesnice nastavena pro zadávání čísel.</string>
+    <string name="MAINTEXT_UNLOCK_SUCCESS">Operace úspěšná!</string>
+    <string name="MAINTEXT_UNLOCK_SUCCESS_CLICK">Tvá hra byla odemčena. Klikni zde a zahraj si plnou verzi hry.</string>
+    <string name="MAINTEXT_UNLOCK_FAILED">Špatný kód!</string>
+    <string name="MAINTEXT_GAME_NOT_AVAILABLE">Tuto hru nelze zakoupit. Vyber si jinou hru nebo to zkus znovu za pár dní.</string>
+    <string name="MAINTEXT_INSTALL">Než budeš pokračovat, musíš nainstalovat data pro $.</string>
+    <string name="MAINTEXT_LOADING">Počkej prosím</string>
+    <string name="MAINTEXT_WAIT">Došlo k prodlevě odpovědi SMS serveru. Hra bude odemknuta později, až server zpracuje SMS.</string>
+    <string name="MAINTEXT_UNLOCK_SUCCESS_SILENT">Nákup proběhl úspěšně. Příjemnou zábavu!</string>
+    <string name="MAINTEXT_HELP">Měl bys obdržet odemykací kód do 5 minut. Zkontroluj svou schránku! Mezitím si stále můžeš zahrát demoverzi! V případě problému kontaktuj android.support@gameloft.com.</string>
+    <string name="MAINTEXT_HELP_NO_IMPUT_CODE">Do 5 minut obdržíš vzkaz o odemčení. Až ho obdržíš, vyber oznámení o odemčení plné verze hry. Mezitím můžeš stále hrát demoverzi! V případě jakýchkoli problémů kontaktuj android.support@gameloft.com.</string>
+    <string name="MAINTEXT_PLAY_GAME">Hru si zkusíš po dobu $. Kup si ji a užij si hraní bez omezení!</string>
+    <string name="MAINTEXT_SUPPORT">"Informace a péče o zákazníky: 
+ www.gameloft.com 
+ support@gameloft.com"</string>
+    <string name="MAINTEXT_CONFIRMATION_SMS_CLOSE">Bude odeslána SMS. Aplikace proto bude ukončena. Pokračovat?</string>
+    <string name="MAINTEXT_CONFIRMATION_SMS">Bude odeslána SMS. Chceš pokračovat?</string>
+    <string name="MAINTEXT_CONFIRMATION_WAP_CLOSE">Bude otevřen prohlížeč. Kvůli tomu bude aplikace ukončena. Určitě?</string>
+    <string name="MAINTEXT_CONFIRMATION_WAP">Bude otevřen prohlížeč v telefonu. Chceš pokračovat?</string>
+    <string name="MAINTEXT_CONFIRMATION_EXIT">Určitě chceš skončit?</string>
+    <string name="MAINTEXT_SELECT_COUNTRY">Vyber svou zemi</string>
+    <string name="MAINTEXT_SELECT_CARRIER">Vyber svého operátora</string>
+    <string name="MAINTEXT_SELECT_CARRIER_NEW">Zvol operátora pro zakoupení hry ([PRICE] + cena SMS)</string>
+    <string name="MAINTEXT_SELECT_LANGUAGE">Vyber jazyk</string>
+    <string name="MAINTEXT_LANDSCAPE_MODE">Tato hra nepodporuje horizontální zobrazení. Nastav svůj přístroj do vertikálního módu.</string>
+    <string name="MAINTEXT_PORTRAIT_MODE">Tato hra nepodporuje vertikální zobrazení. Nastav svůj přístroj do horizontálního módu.</string>
+    <string name="MAINTEXT_SMS_CONFIRM">Pokud chceš aktivovat tuto hru, zadej kód do políčka. 50 SMS / 100 kreditů. Cena již obsahuje všechny daně. Potvrzovací kód: (CODE)</string>
+    <string name="MAINTEXT_SMS_CONFIRM_AUSTRALIA">Pokud chceš tuto hru zakoupit, zadej do políčka potvrzovací kód (CODE)</string>
+    <string name="MAINTEXT_SMS_CONFIRM_INFO">Pokud nemáš dostatečný kredit, hry budou účtovány pomocí částečných plateb.</string>
+    <string name="MAINTEXT_SPECIAL_SMS_CONFIRM">"(PRICE) plus standardní cena za jednu SMS bude naúčtována na faktuře za telefon nebo bude odečtena z předplaceného kreditu.
+
+Zvolením možnosti „Koupit nyní“ potvrzuješ, že jsi starší 16 let a že máš svolení plátce faktury k provedení tohoto nákupu."</string>
+    <string name="MAINTEXT_RECOVERY">"Odemykací kód bys měl/a obdržet do 5 minut. Zkontroluj svoji schránku!
+Mezitím můžeš dále hrát demo nebo můžeš zvolit možnost pokračovat, zahájit znovu nákup a zakoupit další odemykací kód."</string>
+    <string name="MAINTEXT_MINUTE">(MINUTE) min</string>
+    <string name="MAINTEXT_MINUTES">(MINUTE) min</string>
+    <string name="MAINTEXT_SECOND">(SECOND) s</string>
+    <string name="MAINTEXT_MINUTE_AND_SECOND">(MINUTE) min (SECOND) s</string>
+    <string name="MAINTEXT_MINUTES_AND_SECOND">(MINUTE) min (SECOND) s</string>
+    <string name="MAINTEXT_GO_TO_BUY_TOUCH">Koupit klepnutím sem</string>
+    <string name="LANGUAGE">Čeština</string>
+    <string name="HEP_DEVICE_INVALID">Tuto hru lze používat pouze na (NÁZVY_ZAŘÍZENÍ).</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:fitsSystemWindows="true" android:clipChildren="true" android:clipToPadding="true" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/Theme.SMSWrapperBase"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="@dimen/gameloft_logo_layout_height">
+        <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center" android:id="@id/gameloft_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/wrapper_logo" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/center_menu_height"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <RelativeLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true">
+                <TextView android:layout_gravity="center" android:id="@id/textView_cost_warning" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" />
+                <android.widget.ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <Button android:id="@id/button_get_the_game_confirmed" android:text="@string/MENUITEM_BUY_FULL_VERSION" style="@style/Widget.Button" />
+                        <Button android:id="@id/button_legal" android:text="@string/MENUITEM_LEGAL" style="@style/Widget.Button" />
+                        <Button android:id="@id/button_get_the_game_confirmed_2" android:text="@string/MENUITEM_BUY_FULL_VERSION" style="@style/Widget.Button" />
+                        <Button android:id="@id/button_exit" android:text="@string/MENUITEM_EXIT" style="@style/Widget.Button" />
+                    </LinearLayout>
+                </android.widget.ScrollView>
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:layout_gravity="bottom" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/sk_back_button" android:layout_alignParentRight="true" android:layout_alignParentBottom="true">
+                <Button android:id="@id/sk_back_button" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Widget.ButtonSoftkey" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

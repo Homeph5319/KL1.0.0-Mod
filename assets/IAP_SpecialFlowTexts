@@ -1,0 +1,278 @@
+2_EN;230;108;185;186;231;
+2_FR;232;109;187;188;233;
+2_DE;234;110;189;190;235;
+2_IT;236;111;191;192;237;
+2_ES;238;112;193;194;239;
+2_BR;240;113;195;196;241;
+3_EN;230;114;197;198;
+3_FR;232;115;197;199;
+3_DE;234;116;197;200;
+3_IT;236;117;197;201;
+3_ES;238;118;202;203;
+3_BR;240;119;197;204;
+4_EN;230;120;205;206;231;242;121;243;
+4_FR;232;120;205;206;233;244;121;243;
+4_DE;234;120;205;206;235;245;121;243;
+4_IT;236;120;205;206;237;246;121;243;
+4_ES;238;120;205;206;239;247;121;243;
+4_BR;240;120;205;206;241;248;121;243;
+6_EN;230;122;197;198;249;
+6_FR;232;123;197;199;249;
+6_DE;234;124;197;200;249;
+6_IT;236;125;197;201;249;
+6_ES;238;126;202;203;249;
+6_BR;240;127;197;204;249;
+7_EN;230;128;197;198;
+7_FR;232;129;197;199;
+7_DE;234;130;197;200;
+7_IT;236;131;197;201;
+7_ES;238;132;202;203;
+7_BR;240;133;197;204;
+8_EN;230;128;197;198;
+8_FR;232;129;197;199;
+8_DE;234;130;197;200;
+8_IT;236;131;197;201;
+8_ES;238;132;202;203;
+8_BR;240;133;197;204;
+9_EN;230;134;197;198;250;
+9_FR;232;135;197;199;251;
+9_DE;234;136;197;200;252;
+9_IT;236;137;197;201;253;
+9_ES;238;138;202;203;254;
+9_BR;240;139;197;204;255;
+10_EN;230;140;207;208;
+10_FR;232;141;209;210;
+10_DE;234;142;211;212;
+10_IT;236;143;213;214;
+10_ES;238;144;215;216;
+10_BR;240;145;217;218;
+11_EN;230;146;219;220;;;C_BT_TC_ID
+11_FR;232;146;219;220;;;C_BT_TC_ID
+11_DE;234;146;219;220;;;C_BT_TC_ID
+11_IT;236;146;219;220;;;C_BT_TC_ID
+11_ES;238;146;219;220;;;C_BT_TC_ID
+11_BR;240;146;219;220;;;C_BT_TC_ID
+12_EN;230;147;197;198;256;
+12_FR;232;148;197;199;257;
+12_DE;234;149;197;200;258;
+12_IT;236;150;197;201;259;
+12_ES;238;151;202;203;260;
+12_BR;240;152;197;204;261;
+13_EN;230;134;185;208;250;
+13_FR;232;135;187;210;251;
+13_DE;234;136;221;212;252;
+13_IT;236;137;191;214;253;
+13_ES;238;138;193;216;254;
+13_BR;240;139;193;216;255;
+15_EN;230;153;197;198;
+15_FR;232;154;222;199;
+15_DE;234;155;223;200;
+15_IT;236;156;224;201;
+15_ES;238;157;202;203;
+15_BR;240;158;225;204;
+16_EN;262;159;197;198;263;
+16_FR;264;160;197;199;265;
+16_DE;266;161;197;200;267;
+16_IT;268;162;197;201;269;
+16_ES;270;163;202;203;271;
+16_BR;272;164;197;204;273;
+17_EN;230;165;185;208;256;
+17_FR;232;166;187;210;257;
+17_DE;234;167;221;212;258;
+17_IT;236;168;191;214;259;
+17_ES;238;169;193;216;274;
+17_BR;240;170;193;216;261;
+18_EN;230;171;185;198;
+18_FR;232;172;187;199;
+18_DE;234;173;221;200;
+18_IT;236;174;191;201;
+18_ES;238;175;193;203;
+18_BR;240;176;195;204;
+19_EN;230;177;226;227;;;275;
+19_FR;232;177;226;227;;;275;
+19_DE;234;177;226;227;;;275;
+19_IT;236;177;226;227;;;275;
+19_ES;238;177;226;227;;;275;
+19_BR;240;177;226;227;;;275;
+20_EN;230;178;197;198;;;C_BT_TC_EN
+20_FR;232;179;222;199;;;C_BT_TC_FR
+20_DE;234;180;223;200;;;C_BT_TC_DE
+20_IT;236;181;224;201;;;C_BT_TC_IT
+20_ES;238;182;202;203;;;C_BT_TC_ES
+20_BR;240;183;225;204;;;C_BT_TC_BR
+21_EN;230;184;228;229;;;276;
+21_FR;232;184;228;229;;;276;
+21_DE;234;184;228;229;;;276;
+21_IT;236;184;228;229;;;276;
+21_ES;238;184;228;229;;;276;
+21_BR;240;184;228;229;;;276;
+108;This additional feature will cost you %s0 + the price of 1 SMS (depending on your data plan).
+109;Cette option additionnelle sera facturée %s0 + le prix de 1 SMS (selon le forfait)
+110;Der Preis für dieses zusätzliche Feature beträgt %s0 + Gebühren für 1 SMS (je nach Tarif).
+111;Questa funzionalità aggiuntiva ti costerà %s0 + il costo di 1 SMS (a seconda del tuo piano dati).
+112;Esta función adicional te costará %s0 + el precio de 1 SMS (en función de tu plan de datos)
+113;O custo desta função adicional é de %s0 + preço de 1 SMS (dependendo do seu plano de dados).
+114;You'll be charged %s0 for this item.\nYou must read and agree to the Terms and Conditions. Continue?\nIf you do not have enough credit in your account, the price of this item will be charged via payment by installments.\nCustomer Support: Turkcell Tel.: 0 532 755 60 55 - Avea Tel.: 0 555 738 54 00 - Vodafone Tel.: 0 546 510 71 75
+115;%s0 seront facturées pour cet item.\nMerci de lire et d'accepter les conditions générales. Continuer ?\nSi le compte n'est pas suffisamment approvisionné, l'achat de cet élément s'effectuera par paiements échelonnés. \nService Client : Turkcell Tél. : 0 532 755 60 55 - Avea Tél. : 0 555 738 54 00 - Vodafone Tél. : 0 546 510 71 75
+116;Für dieses Element werden dir %s0 berechnet.\nBitte lies die Geschäftsbedingungen und stimme ihnen zu. Fortfahren?\nFalls du nicht genügend Guthaben auf deinem Konto hast, wird das Element per Ratenzahlung abgerechnet.\nKundenbetreuung: Turkcell - Tel.: 0 532 755 60 55 / Avea - Tel.: 0 555 738 54 00 / Vodafone - Tel.: 0 546 510 71 75
+117;Ti verrà addebitato un costo di %s0 per questo articolo.\nÈ necessario leggere e accettare i termini e le condizioni. Vuoi continuare?\nSe non hai credito sufficiente, il prezzo di questo articolo ti verrà addebitato a rate.\nServizio clienti: Turkcell: 0532-7556055 - Avea: 0555-7385400 - Vodafone: 0546-5107175
+118;Se te cobrará %s0 por este objeto.\nTienes que leer y aceptar los términos y condiciones. ¿Quieres continuar?\nSi no tienes suficiente crédito en tu cuenta, el precio de este objeto se cobrará a plazos.\nAtención al cliente: Turkcell: 0 532 755 60 55 - Avea Tel: 0 555 738 54 00 - Vodafone Tel: 0 546 510 71 75
+119;Você receberá uma cobrança de %s0 por esse item.\nVocê precisa ler e aceitar os termos e condições. Deseja continuar?\nSe você não tiver crédito suficiente em sua conta, o preço do item será debitado em prestações.\nAtendimento ao Cliente: Turkcell Tel: 0 532 755 60 55 - Avea Tel: 0 555 738 54 00 - Vodafone Tel: 0 546 510 71 75
+120;Denne mulighed koster %s0 + sms-takst (afhængigt af dit telefonselskabs priser) 
+121;Denne mulighed koster %s0 + sms-takst (afhængigt af dit telefonselskabs priser) \nIngen genopladningsperiode på 14 dage
+122;Do you confirm the purchase of this item? Cost: %s0 + price of %s2 SMS.
+123;Confirmer l'achat de cet item ? Coût : %s0 + prix de %s2 SMS.
+124;Dieses Element wirklich kaufen? Kosten: %s0 + Preis für %s2 SMS
+125;Confermi l'acquisto di questo oggetto? Costo: %s0 + il costo di %s2 SMS.
+126;¿Confirmas la compra de este objeto? Precio: %s0 +  el precio de %s2 SMS
+127;Você confirma a compra deste item? Custo: %s0 + preço de %s2 SMS.
+128;Are you sure you want to buy this item? Price: %s0
+129;Es-tu sûr de vouloir acheter cet item ? Prix : %s0
+130;Dieses Element wirklich kaufen? Preis: %s0
+131;Vuoi davvero comprare questo oggetto? Prezzo: %s0
+132;¿Seguro que quieres comprar este objeto? Precio: %s0
+133;Tem certeza de que deseja comprar este item? Preço: %s0
+134;Are you sure you want to buy this item? Price: %s0 (VAT not included)
+135;Es-tu sûr de vouloir acheter cet item ? Prix : %s0 (hors TVA)
+136;Dieses Element wirklich kaufen? Preis: %s0 (zzgl. MwSt.)
+137;Vuoi davvero comprare questo oggetto? Prezzo: %s0 (IVA esclusa)
+138;¿Seguro que quieres comprar este objeto? Precio: %s0 (IVA no incl.)
+139;Tem certeza de que deseja comprar este item? Preço: %s0 (VAT não incl.)
+140;%s0 plus the cost of one standard-rate SMS will be charged to your mobile phone bill or deducted from your prepaid credit. \nBy selecting "Buy Now", you confirm that you are over the age of 16 and have the bill payer's permission to make this purchase.
+141;%s0 plus le prix d'un SMS standard seront ajoutés à votre facture de téléphone mobile ou déduits de votre crédit prépayé.\nEn touchant "Acheter maintenant", vous déclarez avoir 16 ans ou plus et l'autorisation du débiteur pour effectuer cet achat. 
+142;%s0 zzgl. Standardkosten für eine SMS werden deiner Handyrechnung belastet oder von deinem Prepaid-Guthaben abgebucht.\nIndem du "Jetzt kaufen" wählst, bestätigst du, dass du über 16 Jahre alt bist und die Genehmigung des Zahlungspflichtigen hast, diesen Kauf zu tätigen.
+143;%s0 + il costo di un SMS standard saranno addebitati sulla bolletta del tuo telefono cellulare o verranno detratti dal tuo credito prepagato.\nToccando "Compra ora", confermi di aver compiuto 16 anni e di avere il permesso di chi paga la bolletta per effettuare l'acquisto.
+144;Se te cargará en tu factura de móvil o se deducirá de tu crédito prepago %s0 más el precio de un SMS estándar.\nAl seleccionar Comprar ahora, confirmas que eres mayor de 16 años y tienes el permiso del titular de la factura para realizar la compra.
+145;%s0 mais o custo de uma mensagem de texto serão cobrados na sua conta ou deduzidos do seu saldo pré-pago.\nAo tocar 'comprar agora', você confirma ter mais de 16 anos e possuir a permissão do responsável pelo pagamento da conta para fazer essa compra.
+146;Are you sure you want to buy this item from Gameloft? Price: %s0 (Including PPN)? CS: 021-3918614.\n\nApakah Anda setuju untuk membeli item ini dari Gameloft seharga %s0 (termasuk PPN)? CS: 021-3918614.
+147;Are you sure you want to buy this item? Price: %s0 (VAT included)
+148;Es-tu sûr de vouloir acheter cet item ? Prix : %s0 (TVA incluse)
+149;Dieses Element wirklich kaufen? Preis: %s0 (inkl. MwSt.)
+150;Vuoi davvero comprare questo oggetto? Prezzo: %s0 (IVA inclusa)
+151;¿Seguro que quieres comprar este objeto? Precio: %s0 (IVA incl.)
+152;Tem certeza de que deseja comprar este item? Preço: %s0 (VAT incluído)
+153;Please confirm that you wish to buy this item. The amount will be debited from your phone bill or prepaid balance. Price: %s0
+154;Veuillez confirmer que vous souhaitez acheter cet article. Le montant sera débité de votre facture téléphonique ou de votre solde prépayé. Prix : %s0
+155;Bestätige bitte, dass du dieses Element wirklich kaufen möchtest. Der Betrag wird deiner Handyrechnung belastet oder von deinem Prepaid-Guthaben abgebucht. Preis: %s0
+156;Vuoi davvero comprare questo oggetto? Il prezzo dell'oggetto verrà sottratto dal credito del tuo telefono o verrà addebitato alla tua bolletta. Prezzo: %s0
+157;Por favor, confirma que quieres comprar este objeto. Su coste se añadirá a tu factura telefónica o se deducirá de tu saldo prepago. Precio: %s0
+158;Por favor, confirme a compra desse item. O valor será descontado dos créditos do seu celular ou será cobrado na sua conta. Valor: %s0
+159;Are you sure you want to buy this item? Price: %s0 (GST incl.), charged to your mobile account. Help: 1-800-443-881
+160;Êtes-vous sûr de vouloir acheter cet item ? Prix : %s0 (GST incl.), facturé sur votre compte mobile. Aide : 1-800-443-881
+161;Bist du sicher, dass du dieses Element kaufen möchtest? Preis: %s0 (inkl. MwSt.), wird deinem Handy-Konto belastet. Hilfe: 1-800-443-881
+162;Vuoi davvero comprare questo oggetto? Prezzo: %s0 (IVA incl.), addebitato sul tuo telefono. Assistenza: 1-800-443-881
+163;¿Seguro que quieres comprar este objeto? Precio: %s0 (GST incl.), que se cobrará en tu factura de móvil. Ayuda: 1-800-443-881
+164;Tem certeza de que deseja comprar este item? Preço: %s0 (GST incl.), cobrado na conta de telefone. Ajuda: 1-800-443-881
+165;Click and buy %s1 for %s0 (VAT included).\nOnce you've clicked on the Buy button, the cost of the purchase will be charged on your next Movistar bill or debited from your prepaid balance. This purchase will appear in the "Acceso a contenidos" section.
+166;Cliquez et achetez %s1 pour %s0 (TVA incluse).\nLorsque vous aurez cliqué sur l'icône Acheter, le coût de votre achat sera ajouté à votre prochaine facture Movistar ou déduit de votre solde prépayé. Cet achat apparaîtra dans la rubrique "Acceso a contenidos".
+167;Klicke und kaufe %s1 für %s0 (inkl. MwSt.)\nWenn du auf das Feld "Kaufen" klickst, wird dein Einkauf über deine nächste Movistar-Rechnung abgerechnet oder deinem Prepaid-Guthaben belastet und erscheint in der Rubrik "Acceso a contenidos".
+168;Clicca per comprare: %s1 a %s0 (IVA inclusa).\nCliccando su "Compra", il costo dell'acquisto verrà addebitato sulla tua prossima bolletta Movistar o detratto dal tuo credito prepagato. L'acquisto effettuato comparirà nella sezione "Acceso a contenidos".
+169;Haz clic y compra por %s0 IVA inc. el objeto %s1.\nUna vez que hagas clic en el botón de Comprar, se cargará el importe de la compra en tu próxima factura de Movistar o se deducirá del crédito de tu tarjeta prepago, y aparecerá dentro del apartado ‘Acceso a contenidos'.
+170;Clique para comprar %s1 por %s0 (VAT incluído)\nUma vez que você clicar no botão comprar, o custo da compra será cobrado na sua próxima conta Movistar ou debitado do seu saldo pré-pago. Esta compra aparecerá na seção "Acceso a contenidos".
+171;You have ordered: %s1. Price: %s0. To confirm, select "BUY." Customer Service: 08-112233, Gameloft
+172;Vous avez commandé : %s1. Prix : %s0. Pour confirmer, sélectionnez "ACHETER". Service Client : 08-112233, Gameloft
+173;Du hast Folgendes bestellt: %s1. Preis: %s0. Wähle zur Bestätigung "KAUFEN". Kundenservice: 08-112233, Gameloft
+174;Hai ordinato: %s1. Prezzo: %s0. Per confermare, seleziona "COMPRA". Servizio clienti 08-112233, Gameloft
+175;Has encargado: %s1. Precio: %s0. Para confirmar, selecciona "COMPRAR". Atención al cliente: 08-112233, Gameloft
+176;Você está comprando: %s1. Preço: %s0. Para confirmar, selecione a opção de comprar. Atendimento ao cliente: 08-112233, Gameloft
+177;Opravdu chcete koupit tuto položku? Cena: %s0 včetně DPH
+178;Are you sure you would like to buy this item? If so, %s0 will be charged via an SMS sent to %s3.
+179;Êtes-vous sûr de vouloir acheter cet item ? Si oui, %s0 vous seront facturés via un SMS envoyé à %s3.
+180;Möchtest du dieses Element wirklich kaufen? In diesem Fall werden dir per SMS an %s3 %s0 berechnet.
+181;Vuoi davvero effettuare l'acquisto? Il costo di %s0 ti verrà addebitato tramite un SMS inviato a: %s3.
+182;¿Seguro que quieres comprar este objeto? Tendrás que abonar %s0 a través de un SMS enviado a %s3.
+183;Tem certeza de que você deseja comprar este item? Você será cobrado o valor de %s0 em um SMS enviado para %s3.
+184;Дали сигурно сакате да ја купите оваа ставка? Цена: %s0
+185;Buy
+186;Back
+187;Acheter
+188;Retour
+189;Zahlungspflichtig bestellen
+190;Zurück
+191;Compra
+192;Indietro
+193;Comprar
+194;Atrás
+195;Comprar
+196;Voltar
+197;OK
+198;Later
+199;Plus tard
+200;Später
+201;Dopo
+202;Aceptar
+203;Más tarde
+204;Depois
+205;Køb nu
+206;Senere 
+207;Buy Now
+208;Cancel
+209;Acheter maintenant
+210;Annuler
+211;Jetzt kaufen
+212;Abbrechen
+213;Compra ora
+214;Annulla
+215;Comprar ahora
+216;Cancelar
+217;Comprar agora
+218;Cancelar
+219;Beli
+220;Batal
+221;Kaufen
+222;OK
+223;OK
+224;OK
+225;OK
+226;Zaplatit pomocí SMS
+227;Později
+228;Во ред
+229;Подоцна
+230;Terms and Conditions
+231;+ price of 1 SMS
+232;Conditions générales
+233;+ prix d'1 SMS
+234;Nutzungsbedingungen 
+235;+ SMS-Preis 
+236;Termini e condizioni
+237;+ costo di 1 SMS
+238;Términos y condiciones
+239; + precio de 1 SMS
+240;Termos e condições
+241;+ preço de 1 SMS
+242;No 14-day cooling-off period
+243;Betingelser og vilkår
+244;Pas de période de rétractation de 14 jours
+245;Kein 14-tägiges Widerrufsrecht
+246;Nessun diritto di recesso di 14 giorni
+247;Sin periodo de reembolso de 14 días
+248;Sem direito a período de reembolso de 14 dias.
+249;+ %s2 SMS
+250;(VAT not included)
+251;(hors TVA)
+252;(zzgl. MwSt.)
+253;(IVA esclusa)
+254;(IVA no incl.)
+255;(VAT não incl.)
+256;(VAT included)
+257;(TVA incluse)
+258;(inkl. MwSt.)
+259;(IVA inclusa)
+260;(IVA incl.)
+261;(VAT incluído)
+262;Payment T&C
+263;(GST incl.)
+264;CG paiement
+265;(GST incl.)
+266;Zahlungsbedingungen
+267;(inkl. MwSt.)
+268;Termini pagamento
+269;(IVA incl.)
+270;Pago y T&C
+271;(GST incl.)
+272;Condições de pagamento
+273;(GST incl.)
+274;IVA inc.
+275;Smluvní podmínky
+276;Услови и одредби
+
