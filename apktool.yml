@@ -9,8 +9,8 @@ sdkInfo:
 packageInfo:
   forcedPackageId: 127
 versionInfo:
-  versionCode: 102
-  versionName: 1.0.0-Mod
+  versionCode: 106
+  versionName: 1.0.0
 doNotCompress:
 - arsc
 - jpg
@@ -57,4 +57,5 @@ doNotCompress:
 - res/raw/nih.bin
 - res/raw/serialkey.txt
 - res/raw/sms_configs_content.txt
+
 
