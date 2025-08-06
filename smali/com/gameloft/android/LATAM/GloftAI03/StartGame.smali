@@ -169,11 +169,10 @@
 
     invoke-virtual {v0}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
 
-    const v0, 0x3f99999a    # 1.2f
-
-    const/high16 v3, 0x3f900000    # 1.125f
-
-    invoke-static {v0, v3}, Lb/a/b/c;->setScale(FF)V
+#    // and no wonder why the game scale off when try to follow resolution //
+#   const v0, 0x3f99999a    # 1.2f
+#   const/high16 v3, 0x3f900000    # 1.125f
+#   invoke-static {v0, v3}, Lb/a/b/c;->setScale(FF)V
 
     const-string v0, ""
 
