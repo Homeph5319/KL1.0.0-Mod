@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item type="id" name="com_facebook_login_activity_progress_bar" />
-    <item type="id" name="pn_icon" />
+    <item type="id" name="icon" />
     <item type="id" name="pn_message" />
     <item type="id" name="layout_autodectect_country" />
     <item type="id" name="tableRow3" />
