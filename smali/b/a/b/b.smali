@@ -176,15 +176,7 @@
 .end method
 
 .method public final onWindowFocusChanged(Z)V
-    .locals 2
-
-    invoke-static {p1}, Lcom/gameloft/android/wrapper/g;->L(Z)Z
-
-    move-result v0
-
-    iget-object v1, p0, Lb/a/b/b;->akM:Lb/a/b/q;
-
-    invoke-virtual {v1, v0}, Lb/a/b/q;->onWindowFocusChanged(Z)V
+    .locals 0
 
     return-void
 .end method
@@ -232,3 +224,4 @@
 
     return-void
 .end method
+
