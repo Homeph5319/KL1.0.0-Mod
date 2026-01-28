@@ -173,12 +173,6 @@
 
     invoke-virtual {v0}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
 
-    const v0, 0x3fcccccd    # 1.6f
-
-    const/high16 v3, 0x3fc00000    # 1.5f
-
-    invoke-static {v0, v3}, Lb/a/b/c;->setScale(FF)V
-
     const-string v0, ""
 
     const-string v3, "Single_axis_auto_align"
