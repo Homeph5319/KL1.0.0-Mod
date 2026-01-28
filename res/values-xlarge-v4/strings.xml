@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WDIGP PocketHD</string>
+    <string name="wigp_language">Lanuage :</string>
+    <string name="wigp_enter_igp">Enter IGP</string>
+    <string name="action_settings">Settings</string>
+    <string name="wigp_loading">Loading</string>
+    <string name="wigp_game_view_hint">TOUCH HERE TO GET IT!</string>
+    <string name="wdigp_button_OK">OK</string>
+    <string name="wdigp_button_Cancel">Cancel</string>
+    <string name="wdigp_no_game_available">"Sorry, the game is not available now.
+Please visit us at wapshop.gameloft.com to get more games!"</string>
+    <string name="wdigp_condition_notify">"THIS GAME WILL COSTS $1 (+1 SMS COST). TO PURCHASE TAP HERE FOR TERM  CONDITIONS"</string>
+</resources>

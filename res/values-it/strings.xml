@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cs_title">"Seleziona il paese e l'operatore"</string>
+    <string name="cs_label_country">Paese:</string>
+    <string name="cs_label_operator">Operatore:</string>
+    <string name="cs_btn_ok">OK</string>
+    <string name="cs_btn_cancel">Annulla</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_canel">Annulla</string>
+    <string name="title_payment_selection">Seleziona il modo di pagamento</string>
+    <string name="credit_card">Carta di credito</string>
+    <string name="cnt_resend_confirmation_india">Si applicherà un costo SMS di Rs. 3/-. Vuoi continuare?</string>
+    <string name="btn_yes">Sì</string>
+    <string name="btn_no">No</string>
+    <string name="CODE">IT</string>
+    <string name="GAME_STARTUP">"Cari genitori, grazie per lattenzione!
+È possibile scaricare e giocare a NameOfTheGame gratuitamente. Per divertirsi ancora di più, è anche possibile accedere a contenuti bonus acquistando NameOfTheSoftCurrency e NameOfTheHardCurrency.
+Per sapere come controllare gli acquisti allinterno dellapplicazione (In-app), consultate la sezione Aiuto.
+Utilizzando il gioco, dichiarate di aver letto e compreso il contratto di licenza presente nel negozio per questa applicazione e di averne accettato tutti i termini."</string>
+    <string name="GAME_STARTUP_WITHOUT_SOFTCURRENCY">"Cari genitori, grazie per lattenzione!
+È possibile scaricare e giocare a [Name of the game] gratuitamente. Per divertirsi ancora di più, è anche possibile accedere a contenuti bonus acquistando NameOfTheHardCurrency.
+Per sapere come controllare gli acquisti allinterno dellapplicazione (In-app), consultate la sezione Aiuto.
+Utilizzando il gioco, dichiarate di aver letto e compreso il contratto di licenza presente nel negozio per questa applicazione e di averne accettato tutti i termini."</string>
+    <string name="HELP_SECTION">"Cari genitori, grazie per lattenzione!
+È possibile scaricare e giocare a NameOfTheGame gratuitamente. Per divertirsi ancora di più, è anche possibile accedere a contenuti bonus acquistando NameOfTheSoftCurrency e NameOfTheHardCurrency.
+Se volete evitare che ciò accada, potete controllare questo tipo di transazioni modificando le impostazioni del dispositivo. In questo modo, avrete il controllo totale su cosa possa o non possa essere comprato allinterno del gioco. Gameloft pone di norma un tetto massimo agli acquisti in-app per evitare acquisti involontari o doppi."</string>
+    <string name="HELP_SECTION_WITHOUT_SOFTCURRENCY">"Cari genitori, grazie per lattenzione!
+È possibile scaricare e giocare a [Name of the game] gratuitamente. Per divertirsi ancora di più, è anche possibile accedere a contenuti bonus acquistando NameOfTheHardCurrency.
+Se volete evitare che ciò accada, potete controllare questo tipo di transazioni modificando le impostazioni del dispositivo. In questo modo, avrete il controllo totale su cosa possa o non possa essere comprato allinterno del gioco."</string>
+    <string name="HELP_SECTION_GOOGLEPLAY">"La password è un ottimo modo per assicurarsi che nessuno tranne voi possa fare acquisti In-app su Google Play. Ecco come procedere: - Apri lapplicazione Google Play >> Premi Menu >> Impostazioni >> Controlli utente
+- Seleziona la casella Usa il PIN per gli acquisti o Password (ti verrà richiesto di inserire la password)
+Ovviamente, è meglio non comunicare la password a nessuno, nemmeno ai propri figli.
+Consulta il manuale del dispositivo o contatta il produttore del dispositivo per ulteriori informazioni.
+Gameloft pone di norma un tetto massimo agli acquisti in-app per evitare acquisti involontari o doppi."</string>
+    <string name="HELP_SECTION_AMAZON">"Un ottimo modo per evitare acquisti In-app involontari è richiedere una password Amazon prima di iniziare a fare acquisti. Ecco come procedere: - Apri lapplicazione Amazon App-Shop >> Premi Menu >> Impostazioni >> Parental Control
+- Imposta Parental Control su Acceso (ti verrà chiesto di inserire la password di Amazon)
+Ovviamente, è meglio non comunicare la password a nessuno, nemmeno ai propri figli.
+Gameloft pone di norma un tetto massimo agli acquisti in-app per evitare acquisti involontari o doppi."</string>
+    <string name="COSTS_REAL_MONEY">Ha un costo in soldi veri</string>
+    <string name="IAP_SAMSUNG_DIALOG_TITLE">In-App Purchase</string>
+    <string name="IAP_SAMSUNG_UPGRADE_REQUIRED">È necessario aggiornare In-App Purchase di Samsung. Vuoi continuare?</string>
+    <string name="IAP_SAMSUNG_CLIENT_NOT_INSTALLED">In-App Purchase di Samsung non è installato su questo dispositivo. Vuoi installarlo?</string>
+    <string name="IAP_SAMSUNG_APP_STORE_NOT_INSTALLED">"Il servizio Samsung Store non è disponibile in questo momento. Puoi continuare a usare l'applicazione ma non potrai fare acquisti."</string>
+    <string name="IAP_SAMSUNG_ERROR_ALREADY_PURCHASED">Questo oggetto è già stato acquistato. Non verrà addebitato sul tuo account.</string>
+    <string name="IAP_SAMSUNG_WAITING">Attendere...</string>
+    <string name="IAP_SAMSUNG_OK_BUTTON">Ok</string>
+    <string name="IAP_SAMSUNG_CANCEL_BUTTON">Annulla</string>
+    <string name="string_app_name">100% giochi!</string>
+    <string name="string_error_io_exception">Si è verificato un errore durante il download. Impossibile scrivere sulla periferica di memorizzazione esterna. Verifica che ci sia dello spazio libero.</string>
+    <string name="string_error_exception">"Errore durante il download: si è verificata un'eccezione."</string>
+    <string name="string_downloading">Scaricamento in corso...</string>
+    <string name="string_download_finish_dialog_successfull">Download riuscito</string>
+    <string name="string_button_update">Aggiorna</string>
+    <string name="string_button_cancel">Annulla</string>
+    <string name="string_ask_new_version">"È disponibile una nuova versione del programma.
+Aggiorna per rimanere sempre al corrente dei nostri ultimi giochi."</string>
+    <string name="string_confirmation_exit">Sei sicuro di voler uscire?</string>
+    <string name="string_confirmation_cancel">Vuoi davvero annullare?</string>
+    <string name="string_COMMAND_YES">Sì</string>
+    <string name="string_COMMAND_NO">No</string>
+    <string name="COMMAND_SELECT">Seleziona</string>
+    <string name="COMMAND_NEXT">Avanti</string>
+    <string name="COMMAND_OK">Ok</string>
+    <string name="COMMAND_BACK">Indietro</string>
+    <string name="COMMAND_EXIT">Esci</string>
+    <string name="COMMAND_YES">Sì</string>
+    <string name="COMMAND_NO">No</string>
+    <string name="MENUITEM_MAIN_MENU">Torna al menu</string>
+    <string name="MENUITEM_MAIN_MENU_IGP">Continua</string>
+    <string name="MENUITEM_MAIN_MENU_IGP_RECOVER">Ok</string>
+    <string name="MENUITEM_BUY_FULL_VERSION">Compra il gioco</string>
+    <string name="MENUITEM_BUY_NOW">Compra per $</string>
+    <string name="MENUITEM_BUY_NOW_PAY_ON_BILL">Paga tramite bolletta del telefono</string>
+    <string name="MENUITEM_BUY_BOGOF">Scarica subito</string>
+    <string name="MENUITEM_SEND_SMS">Scarica gioco</string>
+    <string name="MENUITEM_PLAY_DEMO">Gioca alla demo</string>
+    <string name="MENUITEM_SUPPORT">Assistenza</string>
+    <string name="MENUITEM_ENTER_PIN">Inserisci codice acquisto</string>
+    <string name="MENUITEM_HELP">Guida</string>
+    <string name="MENUITEM_LEGAL">Termini e condizioni</string>
+    <string name="MENUITEM_LEGAL_MENU">Termini e condizioni</string>
+    <string name="MENUITEM_LEGAL_GAMELOFT_CLUB">Offerta gioco gratis</string>
+    <string name="MENUITEM_LEGAL_PURCHASE">Acquisto diretto (PRICE)</string>
+    <string name="MENUITEM_GAMELOFT_CLUB_FREE">Scarica il gioco gratis</string>
+    <string name="MENUITEM_GAMELOFT_CLUB">Entra nel club Gameloft</string>
+    <string name="MENUITEM_GAMELOFT_CLUB_READ_AND_ACCEPT">Leggi e accetta. Entra nel club!</string>
+    <string name="MENUITEM_GAMELOFT_CLUB_FULL_LEGAL">Termini e condizioni completi</string>
+    <string name="MENUITEM_EXIT">Esci</string>
+    <string name="MENUITEM_PLAY_GAME">Gioca</string>
+    <string name="MENUITEM_SMS_TRY_AGAIN">Riprova!</string>
+    <string name="MENUITEM_UNLOCK_TRY_AGAIN">Riprova!</string>
+    <string name="MENUITEM_UNLOCK">Sblocca</string>
+    <string name="MENUITEM_GET_NEW_UNLOCK_CODE">Recupera codice sblocco</string>
+    <string name="MENUITEM_OTHERS">Altro</string>
+    <string name="MENUITEM_OTHER_COUNTRIES">Altri paesi</string>
+    <string name="MENUITEM_OTHER_OPERATORS">Altri operatori</string>
+    <string name="MENUITEM_LANGUAGE">Lingua</string>
+    <string name="MENUITEM_CHANGE_COUNTRIES">Cambia paese</string>
+    <string name="MENUITEM_CANCEL">Annulla</string>
+    <string name="MENUITEM_BUY_NOW_CONFIRM">Compra</string>
+    <string name="MENUITEM_NOTE_RECOVERY">Continua</string>
+    <string name="MAINTEXT_MAIN_MENU_TRIALS_REMAINING">Grazie per aver scaricato giochi Gameloft. Numero di prove rimaste: $.</string>
+    <string name="MAINTEXT_MAIN_MENU_DEMO_TIME">Puoi giocare a questa demo per (TIME).</string>
+    <string name="MAINTEXT_MAIN_MENU_DEMO_TRIALS">Prove rimaste: (TRIALS).</string>
+    <string name="MAINTEXT_MAIN_MENU_NO_MORE_TRIALS">Spiacente, non puoi più eseguire questa demo. Compra la versione completa per divertirti senza restrizioni!</string>
+    <string name="MAINTEXT_BUY_FULL_VERSION">Questo gioco costa (PRICE)</string>
+    <string name="MAINTEXT_BUY_FULL_VERSION_TAXES">(+ il costo di 1 SMS)</string>
+    <string name="MAINTEXT_GET_ONE_FREE">1 gioco extra gratis</string>
+    <string name="MAINTEXT_BUY_ONE_GET_ONE_FREE">"Compra questo gioco a ((PRICE)[ (TAXES)])
+1 gioco extra gratis"</string>
+    <string name="MAINTEXT_GO_TO_LEGAL">Premi 8 per leggere i termini e le condizioni.</string>
+    <string name="MAINTEXT_GO_TO_LEGAL_TOUCH">Tocca qui per leggere i termini e le condizioni.</string>
+    <string name="MAINTEXT_LEGAL_MENU">"Vedi i termini e le condizioni dell'offerta."</string>
+    <string name="MAINTEXT_LEGAL">"La versione completa di questo gioco costa $1. Ciascun SMS costerà $2 + normali costi di invio (sono necessari almeno $3 SMS per completare l'acquisto). Riceverai un SMS da $4. Segui le istruzioni per completare l'acquisto. È necessario possedere un credito sufficiente per poter ricevere il gioco. L'età minima per accedere a questo servizio è 16 anni."</string>
+    <string name="MAINTEXT_SENDING_SMS">Attendi... Acquisto in corso</string>
+    <string name="MAINTEXT_SENDING_SMS_OVI">Attendere... Acquisto del gioco da Gameloft in corso</string>
+    <string name="MAINTEXT_SMS_SUCCESS">Operazione riuscita! Entro 5 minuti riceverai un SMS con il codice PIN</string>
+    <string name="MAINTEXT_SMS_SUCCESS_IGP">Operazione completata! Riceverai un SMS con il link per il download entro 5 minuti.</string>
+    <string name="MAINTEXT_SMS_SUCCESS_PROMO">per scaricare i tuoi 2 giochi.</string>
+    <string name="MAINTEXT_SMS_FAILED">"Impossibile completare l'acquisto. Assicurati di essere connesso a una rete, che la scheda SIM sia selezionata e di avere credito sufficiente."</string>
+    <string name="MAINTEXT_RECOVER_IGP">Hai comprato questo gioco. Vuoi recuperare il link per il download?</string>
+    <string name="MAINTEXT_RECOVER_IGP_MO">Hai comprato questo gioco. Vuoi visitare il WapShop di Gameloft?</string>
+    <string name="MAINTEXT_DEMO_ENDED">Ti è piaciuto il gioco?</string>
+    <string name="MAINTEXT_UNLOCK_VIRTUAL_KEYPAD">Inserisci il codice di acquisto</string>
+    <string name="MAINTEXT_UNLOCK_INPUT">Inserisci il codice di acquisto. Premi il tasto navi a sinistra per cancellare.</string>
+    <string name="MAINTEXT_UNLOCK_INPUT_GENERIC">"Inserisci il codice d'acquisto. Usa il tasto $ per cancellare."</string>
+    <string name="MAINTEXT_UNLOCK_INPUT_QWERTY">Assicurati che la tastiera sia configurata per inserire numeri.</string>
+    <string name="MAINTEXT_UNLOCK_SUCCESS">Operazione completata con successo!</string>
+    <string name="MAINTEXT_UNLOCK_SUCCESS_CLICK">Il gioco è stato sbloccato. Clicca qui per giocare alla versione completa.</string>
+    <string name="MAINTEXT_UNLOCK_FAILED">Codice sbagliato!</string>
+    <string name="MAINTEXT_GAME_NOT_AVAILABLE">Questo gioco non è disponibile. Scegli un altro gioco o riprova tra qualche giorno.</string>
+    <string name="MAINTEXT_INSTALL">Devi installare i dati di $ prima di continuare</string>
+    <string name="MAINTEXT_LOADING">Attendi...</string>
+    <string name="MAINTEXT_WAIT">"Si è verificato un ritardo nella risposta dal server SMS. Il gioco verrà sbloccato più tardi quando il server avrà finito di elaborare l'SMS."</string>
+    <string name="MAINTEXT_UNLOCK_SUCCESS_SILENT">Acquisto riuscito. Buon divertimento!</string>
+    <string name="MAINTEXT_HELP">Riceverai il codice entro 5 minuti. Controlla la tua posta! Puoi ancora giocare alla demo nel frattempo! Per qualsiasi problema contatta android.support@gameloft.com</string>
+    <string name="MAINTEXT_HELP_NO_IMPUT_CODE">Riceverai il messaggio con il codice entro 5 minuti. Una volta ricevuto, seleziona la notifca per sbloccare la versione completa del gioco. Nel frattempo puoi giocare alla versione demo! Per qualsiasi problema contatta android.support@gameloft.com</string>
+    <string name="MAINTEXT_PLAY_GAME">Potrai provare il gioco per $. Compra il gioco per divertirti senza limitazioni!</string>
+    <string name="MAINTEXT_SUPPORT">"Info e servizio clienti: 
+ www.gameloft.com 
+ support@gameloft.com"</string>
+    <string name="MAINTEXT_CONFIRMATION_SMS_CLOSE">"Ti sarà inviato un SMS. L'applicazione sarà chiusa per procedere con l'operazione richiesta. Vuoi continuare?"</string>
+    <string name="MAINTEXT_CONFIRMATION_SMS">Ti sarà inviato un SMS. Vuoi continuare?</string>
+    <string name="MAINTEXT_CONFIRMATION_WAP_CLOSE">"La schermata del browser del tuo cellulare sta per aprirsi. L'applicazione sarà chiusa per procedere con l'operazione richiesta. Vuoi procedere?"</string>
+    <string name="MAINTEXT_CONFIRMATION_WAP">La schermata del browser del tuo cellulare sta per aprirsi. Vuoi continuare?</string>
+    <string name="MAINTEXT_CONFIRMATION_EXIT">Sei sicuro di voler uscire?</string>
+    <string name="MAINTEXT_SELECT_COUNTRY">Scegli il tuo paese</string>
+    <string name="MAINTEXT_SELECT_CARRIER">Scegli il tuo operatore</string>
+    <string name="MAINTEXT_SELECT_CARRIER_NEW">Seleziona il tuo operatore per acquistare il gioco ([PRICE] + il costo di SMS)</string>
+    <string name="MAINTEXT_SELECT_LANGUAGE">Scegli la tua lingua</string>
+    <string name="MAINTEXT_LANDSCAPE_MODE">Questo gioco non supporta la modalità orizzontale. Ritorna alla modalità verticale.</string>
+    <string name="MAINTEXT_PORTRAIT_MODE">Questo gioco non supporta la modalità verticale. Ritorna alla modalità orizzontale.</string>
+    <string name="MAINTEXT_SMS_CONFIRM">Per attivare il gioco, inserisci il codice nel riquadro. 50 SMS / 100 crediti. IVA inclusa. Codice di conferma: (CODE)</string>
+    <string name="MAINTEXT_SMS_CONFIRM_AUSTRALIA">Per acquistare questo gioco, inserisci il codice di conferma (CODE) nel riquadro</string>
+    <string name="MAINTEXT_SMS_CONFIRM_INFO">Se non hai credito sufficiente, ti verrà addebitato un pagamento parziale.</string>
+    <string name="MAINTEXT_SPECIAL_SMS_CONFIRM">"(PRICE) più il costo di un SMS verranno addebitati sulla tua bolletta o verranno dedotti dal tuo credito prepagato. Selezionando Compra confermi di aver compiuto 16 anni e di avere il permesso del titolare della bolletta per effettuare l'acquisto."</string>
+    <string name="MAINTEXT_RECOVERY">"Riceverai un codice entro 5 minuti. Controlla i messaggi in arrivo!
+Puoi giocare con la versione demo nel frattempo, oppure puoi riavviare la procedura di acquisto e comprare un altro codice scegliendo Continua."</string>
+    <string name="MAINTEXT_MINUTE">(MINUTE) minuto</string>
+    <string name="MAINTEXT_MINUTES">(MINUTE) minuti</string>
+    <string name="MAINTEXT_SECOND">(SECOND) secondi</string>
+    <string name="MAINTEXT_MINUTE_AND_SECOND">(MINUTE) minuto (SECOND) secondi</string>
+    <string name="MAINTEXT_MINUTES_AND_SECOND">(MINUTE) minuti (SECOND) secondi</string>
+    <string name="MAINTEXT_GO_TO_BUY_TOUCH">Tocca per comprare</string>
+    <string name="LANGUAGE">Italiano</string>
+    <string name="HEP_DEVICE_INVALID">Questo gioco funziona solo su: (DEVICE_NAMES).</string>
+</resources>

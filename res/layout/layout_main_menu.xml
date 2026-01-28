@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:fitsSystemWindows="true" android:clipChildren="true" android:clipToPadding="true" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/Theme.SMSWrapperBase"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="@dimen/gameloft_logo_layout_height">
+        <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center" android:id="@id/gameloft_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/wrapper_logo" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <RelativeLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true">
+                <TextView android:layout_gravity="center" android:id="@id/text_view_trials_messasge" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <android.widget.ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <Button android:id="@id/button_insert_code" android:text="@string/MENUITEM_ENTER_PIN" style="@style/Widget.Button" />
+                        <Button android:id="@id/button_get_new_unlock_code" android:text="@string/MENUITEM_GET_NEW_UNLOCK_CODE" style="@style/Widget.Button" />
+                        <Button android:id="@id/button_help" android:text="@string/MENUITEM_HELP" style="@style/Widget.Button" />
+                        <Button android:id="@id/button_get_the_game" android:text="@string/MENUITEM_BUY_FULL_VERSION" style="@style/Widget.Button" />
+                        <Button android:id="@id/button_play_demo" android:text="@string/MENUITEM_PLAY_DEMO" style="@style/Widget.Button" />
+                        <Button android:id="@id/button_get_the_game_2" android:text="@string/MENUITEM_BUY_FULL_VERSION" style="@style/Widget.Button" />
+                        <Button android:id="@id/button_support" android:text="@string/MENUITEM_SUPPORT" style="@style/Widget.Button" />
+                        <Button android:id="@id/button_exit" android:text="@string/MENUITEM_EXIT" style="@style/Widget.Button" />
+                    </LinearLayout>
+                </android.widget.ScrollView>
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

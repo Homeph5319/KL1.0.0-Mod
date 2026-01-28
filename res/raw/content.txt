@@ -1,0 +1,37 @@
+MIDlet-Name: Kingdoms and Lords
+MIDlet-Vendor: Gameloft SA
+MIDlet-1: Kingdoms and Lords, /icon.png, GloftKLMF
+MIDlet-Icon: /icon.png
+MIDlet-Description: Ever dreamt of being a King? Time to make it true!
+MIDlet-Version: 1.0.0
+MIDlet-Data-Size: 32000
+MIDlet-Touch-Support: true
+MIDlet-Scaleup-Support: false
+URL-SUPPORT: http://ingameads.gameloft.com/redir/?from=AI44&op=BFLL&ctg=SUPPORT
+URL-PRIVACY: http://ingameads.gameloft.com/redir/?from=AI44&op=BFLL&ctg=PRIVACY
+MIDlet-Jar-Size: 6348329
+TITLE-FREEMIUM: 0
+TITLE-GLCLUB: 0
+GAME-PRODUCT-ID: 1651
+GAME-GGI: 57683
+VERSION-PUSH: 1.0.0
+GAME-PLATFORM: android
+GAME-SHOP: shop
+EVE-SERVICE-URL: http://eve.gameloft.com:20001
+URL-UPDATE: http://confirmation.gameloft.com/partners/android/v2/update_check_hep.php?igpcode=AI44&lvl=14&ver=1.0.0&test=1&v=2.0
+MIDlet-Jar-URL: KingdomsAndLords_Nyx_Noba_TV_IGP_LATAM_ML_IAP_TS_100.jar
+IAP-EnableIAP: 1
+IAP-GameCodeIGP: AI44
+IAP-PhoneModel: 9718
+IAP-DynamicFeedURL: 
+IAP-GoogleDeveloperKey: 
+IAP-EnableCreditCard: 0
+URL-TEMPLATE-GAME: http://ingameads.gameloft.com/redir/?from=AI44&op=BFL4&game=XXXX&ver=0.5&emb=1
+URL-OPERATOR: http://ingameads.gameloft.com/redir/?from=AI44&op=BFL4&ver=0.5&emb=1
+Has-Push-Notification: 1
+URL-TEMPLATE-GAME: http://ingameads.gameloft.com/redir/?from=AG35&op=BFL4&game=XXXX&ver=2.5.2d&game_type=EMB&emb=1
+URL-OPERATOR: http://ingameads.gameloft.com/redir/?from=AG35&op=BFL4&ver=2.5.2d&game_type=EMB&emb=1
+IGP-PROMOS: TR2M=TR2M;GT2M=GT2M;
+IGP-FREEMIUM: TCMF=TCMF;
+IGP-WELCOME: 0
+IGP-VERSION: 2.5.2d

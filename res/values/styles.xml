@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="wdigp_mainloading_progreeBar" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:layout_gravity">center|bottom</item>
+        <item name="android:layout_width">@dimen/wigp_mainloading_horizontal_progessbar_width</item>
+        <item name="android:layout_height">@dimen/wigp_mainloading_horizontal_progessbar_height</item>
+        <item name="android:indeterminate">false</item>
+        <item name="android:progressDrawable">@drawable/wigp_style_mainloading_progressbar</item>
+    </style>
+    <style name="wdip_transparent_background" parent="@android:style/Theme.Translucent">
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+    <style name="Theme.Transparent" parent="@android:style/Theme">
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="Theme.Transparent_popup" parent="@android:style/Theme">
+        <item name="android:windowBackground">@color/background_popup</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="processbar_downloading" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:layout_gravity">center|bottom</item>
+        <item name="android:layout_width">@dimen/downloading_processbar_width</item>
+        <item name="android:layout_height">@dimen/downloading_processbar_height</item>
+        <item name="android:indeterminate">false</item>
+        <item name="android:progressDrawable">@drawable/style_progressbar_downloading</item>
+    </style>
+    <style name="processtext_downloading_extra_style">
+        <item name="android:typeface">normal</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="processtext_downloading" parent="@style/processtext_downloading_extra_style">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="Theme" parent="@android:style/Theme" />
+    <style name="Theme.PlainText" parent="@style/Theme" />
+    <style name="Theme.SMSWrapperBase" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+        <item name="android:buttonStyle">@style/Widget.Button</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="android:scrollViewStyle">@style/Widget.ScrollView</item>
+        <item name="android:textViewStyle">@style/Widget.TextView</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff000000</item>
+    </style>
+    <style name="Theme.SMSrapperStart" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@null</item>
+    </style>
+    <style name="Theme.SMSrapperPopUp" parent="@android:style/Theme.Dialog">
+        <item name="android:buttonStyle">@style/Widget.Button</item>
+        <item name="android:textViewStyle">@style/Widget.TextView</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff000000</item>
+    </style>
+    <style name="Widget.Button" parent="@android:style/Widget.Button">
+        <item name="android:textSize">@dimen/text_size</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:focusable">false</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:layout_width">@dimen/button_width</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="Widget.ButtonSoftkey" parent="@android:style/Widget.Button">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/button_background_softkey</item>
+        <item name="android:focusable">false</item>
+    </style>
+    <style name="Widget.ScrollView" parent="@android:style/Widget.ScrollView">
+        <item name="android:scrollbarSize">10.0dip</item>
+        <item name="android:scrollbarThumbVertical">@drawable/scrollbar_vertical_thumb</item>
+        <item name="android:scrollbarTrackVertical">@drawable/scrollbar_vertical_track</item>
+        <item name="android:focusable">false</item>
+        <item name="android:focusableInTouchMode">false</item>
+    </style>
+    <style name="Widget.TextView" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/text_size</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+    </style>
+    <style name="Theme.NoBackground" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
+    <style name="NoBorderDialogTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+</resources>

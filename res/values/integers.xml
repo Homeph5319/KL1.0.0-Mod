@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_demo_attempts">5</integer>
+    <integer name="config_demo_time">120000</integer>
+    <integer name="useWAPOptionInCountrySelection">0</integer>
+    <integer name="showMoreCountriesWhenAutoDetected">0</integer>
+    <integer name="isFullGame">1</integer>
+    <integer name="use_low_profile_menu">0</integer>
+    <integer name="is_use_MCC_MNC_detection">1</integer>
+    <integer name="use_txt_file_content_for_sms_configs">0</integer>
+    <integer name="is_use_remove_one_click_flow_for_digp">1</integer>
+    <integer name="is_use_SMS_encryption">0</integer>
+    <integer name="is_use_SFR_flow">0</integer>
+    <integer name="is_use_piracy">0</integer>
+    <integer name="use_igp_PHD">1</integer>
+    <integer name="use_pausedemo_when_minimize">0</integer>
+    <integer name="is_debug_mode">0</integer>
+</resources>

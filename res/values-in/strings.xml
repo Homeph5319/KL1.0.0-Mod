@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CODE">IN</string>
+    <string name="string_app_name">100% Games!</string>
+    <string name="string_error_io_exception">Terjadi eror ketika mengunduh file. Tidak dapat menyimpan file di media penyimpanan eksternal. Silakan cek jika ada cukup ruang tersedia.</string>
+    <string name="string_error_exception">"Pengunduhan file eror. 
+Terjadi kesalahan."</string>
+    <string name="string_downloading">mengunduh...</string>
+    <string name="string_download_finish_dialog_successfull">Pengunduhan sukses</string>
+    <string name="string_button_update">Pembaruan</string>
+    <string name="string_button_cancel">Batal</string>
+    <string name="string_ask_new_version">"Widget versi baru sudah tersedia.
+Silakan perbarui untuk tetap memainkan permainan kami."</string>
+    <string name="string_confirmation_exit">Anda yakin ingin berhenti?</string>
+    <string name="string_confirmation_cancel">Apa kau yakin ingin membatalkannya?</string>
+    <string name="string_COMMAND_YES">Ya</string>
+    <string name="string_COMMAND_NO">Tidak</string>
+    <string name="COMMAND_SELECT">Pilih</string>
+    <string name="COMMAND_NEXT">Berikutnya</string>
+    <string name="COMMAND_OK">Ok</string>
+    <string name="COMMAND_BACK">Kembali</string>
+    <string name="COMMAND_EXIT">Keluar</string>
+    <string name="COMMAND_YES">Ya</string>
+    <string name="COMMAND_NO">Tidak</string>
+    <string name="MENUITEM_MAIN_MENU">Kembali ke menu utama</string>
+    <string name="MENUITEM_MAIN_MENU_IGP">Lanjut</string>
+    <string name="MENUITEM_MAIN_MENU_IGP_RECOVER">OK</string>
+    <string name="MENUITEM_BUY_FULL_VERSION">Dapatkan game</string>
+    <string name="MENUITEM_BUY_NOW">Beli Sekarang $</string>
+    <string name="MENUITEM_BUY_NOW_PAY_ON_BILL">Bayar dengan tagihan telepon saya</string>
+    <string name="MENUITEM_BUY_BOGOF">Dapatkan sekarang juga</string>
+    <string name="MENUITEM_SEND_SMS">Dapatkan game</string>
+    <string name="MENUITEM_PLAY_DEMO">Mainkan demo</string>
+    <string name="MENUITEM_SUPPORT">Dukungan</string>
+    <string name="MENUITEM_ENTER_PIN">Masukkan kode pembelian</string>
+    <string name="MENUITEM_HELP">Bantuan</string>
+    <string name="MENUITEM_LEGAL">Syarat &amp; Ketentuan</string>
+    <string name="MENUITEM_LEGAL_MENU">Syarat &amp; Ketentuan</string>
+    <string name="MENUITEM_LEGAL_GAMELOFT_CLUB">Penawaran game gratis</string>
+    <string name="MENUITEM_LEGAL_PURCHASE">Pembelian Langsung (PRICE)</string>
+    <string name="MENUITEM_GAMELOFT_CLUB_FREE">Dapatkan game ini secara gratis</string>
+    <string name="MENUITEM_GAMELOFT_CLUB">Bergabunglah dengan Klub Gameloft.</string>
+    <string name="MENUITEM_GAMELOFT_CLUB_READ_AND_ACCEPT">Baca &amp; Setujui. Bergabunglah Sekarang!</string>
+    <string name="MENUITEM_GAMELOFT_CLUB_FULL_LEGAL">Syarat &amp; Ketentuan lengkap</string>
+    <string name="MENUITEM_EXIT">Keluar</string>
+    <string name="MENUITEM_PLAY_GAME">Mainkan game</string>
+    <string name="MENUITEM_SMS_TRY_AGAIN">Coba lagi!</string>
+    <string name="MENUITEM_UNLOCK_TRY_AGAIN">Coba lagi!</string>
+    <string name="MENUITEM_UNLOCK">Buka</string>
+    <string name="MENUITEM_GET_NEW_UNLOCK_CODE">Minta ulang kode untuk membuka</string>
+    <string name="MENUITEM_OTHERS">Lainnya</string>
+    <string name="MENUITEM_OTHER_COUNTRIES">Negara lain</string>
+    <string name="MENUITEM_OTHER_OPERATORS">Operator lain</string>
+    <string name="MENUITEM_LANGUAGE">Bahasa</string>
+    <string name="MENUITEM_CHANGE_COUNTRIES">Ubah negara</string>
+    <string name="MENUITEM_CANCEL">Batal</string>
+    <string name="MENUITEM_BUY_NOW_CONFIRM">Beli Sekarang</string>
+    <string name="MENUITEM_NOTE_RECOVERY">Lanjut</string>
+    <string name="MAINTEXT_MAIN_MENU_TRIALS_REMAINING">Terima kasih telah mengunduh Game Gameloft. Kamu memiliki $ percobaan tersisa.</string>
+    <string name="MAINTEXT_MAIN_MENU_DEMO_TIME">Kamu dapat memainkan demo ini selama (TIME).</string>
+    <string name="MAINTEXT_MAIN_MENU_DEMO_TRIALS">Kamu memiliki (TRIALS) percobaan tersisa.</string>
+    <string name="MAINTEXT_MAIN_MENU_NO_MORE_TRIALS">Maaf, Kamu telah mencapai batas percobaan untuk demo ini. Dapatkan game untuk menikmatinya tanpa batas!</string>
+    <string name="MAINTEXT_BUY_FULL_VERSION">Beli game ini dengan harga (PRICE)</string>
+    <string name="MAINTEXT_BUY_FULL_VERSION_TAXES">(+ biaya 1 SMS )</string>
+    <string name="MAINTEXT_GET_ONE_FREE">Dengan tawaran 1 game ekstra</string>
+    <string name="MAINTEXT_BUY_ONE_GET_ONE_FREE">"Dapatkan game ini seharga ((PRICE)[ (TAXES)])
+1 dengan tawaran 1 game ekstra"</string>
+    <string name="MAINTEXT_GO_TO_LEGAL">Tekan 8 untuk Syarat &amp; Ketentuan.</string>
+    <string name="MAINTEXT_GO_TO_LEGAL_TOUCH">Sentuh di sini untuk Syarat &amp; Ketentuan.</string>
+    <string name="MAINTEXT_LEGAL_MENU">Pelajari Syarat dan Ketentuan setiap penawaran:</string>
+    <string name="MAINTEXT_LEGAL">Harga versi lengkap game ini adalah $1. Setiap pesan SMS dikenakan biaya $2 + tarif SMS normal (Kamu memerlukan $3 SMS untuk menyelesaikan pembelian). Kamu akan menerima SMS dari $4. Ikuti petunjuk untuk menyelesaikan proses pembelian. Kamu harus memiliki cukup pulsa untuk menerima pesananmu. Kamu harus berusia di atas 16 tahun untuk menggunakan layanan ini.</string>
+    <string name="MAINTEXT_SENDING_SMS">Mohon menunggu... Pembelian sedang diproses</string>
+    <string name="MAINTEXT_SENDING_SMS_OVI">Mohon menunggu... Pembelian dari Gameloft sedang diproses</string>
+    <string name="MAINTEXT_SMS_SUCCESS">Proses berhasil! Kamu akan menerima SMS berisi kode PIN dalam waktu 5 menit.</string>
+    <string name="MAINTEXT_SMS_SUCCESS_IGP">Proses berhasil! Kamu akan menerima SMS yang berisi tautan pengunduhan dalam 5 menit.</string>
+    <string name="MAINTEXT_SMS_SUCCESS_PROMO">untuk mendapatkan 2 gamemu</string>
+    <string name="MAINTEXT_SMS_FAILED">Pembelian tidak dapat diselesaikan. Pastikan kamu tersambung ke jaringan, kartu SIM milikmu tidak bermasalah, dan kamu memiliki cukup pulsa.</string>
+    <string name="MAINTEXT_RECOVER_IGP">Kamu telah membeli game ini. Apakah kamu ingin mendapatkan kembali tautan pengunduhan?</string>
+    <string name="MAINTEXT_RECOVER_IGP_MO">Kamu telah membeli game ini. Apakah kamu ingin menelusuri Gameloft WapShop?</string>
+    <string name="MAINTEXT_DEMO_ENDED">Apakah kamu menyukai game ini?</string>
+    <string name="MAINTEXT_UNLOCK_VIRTUAL_KEYPAD">Masukkan kode pembelian</string>
+    <string name="MAINTEXT_UNLOCK_INPUT">Masukkan kode pembelian. Gunakan tombol navigasi kiri untuk menghapus.</string>
+    <string name="MAINTEXT_UNLOCK_INPUT_GENERIC">Masukkan kode pembelian. Gunakan tombol $ untuk menghapus.</string>
+    <string name="MAINTEXT_UNLOCK_INPUT_QWERTY">Pastikan papan ketik sudah dikonfigurasi untuk memasukkan angka.</string>
+    <string name="MAINTEXT_UNLOCK_SUCCESS">Proses berhasil!</string>
+    <string name="MAINTEXT_UNLOCK_SUCCESS_CLICK">Gamemu telah diaktifkan. Klik di sini untuk memainkan game versi lengkap.</string>
+    <string name="MAINTEXT_UNLOCK_FAILED">Kode salah!</string>
+    <string name="MAINTEXT_GAME_NOT_AVAILABLE">Game ini tidak tersedia untuk dibeli. Silakan pilih game lainnya atau coba kembali dalam beberapa hari lagi.</string>
+    <string name="MAINTEXT_INSTALL">Kamu harus menginstal data dengan biaya $ sebelum melanjutkan.</string>
+    <string name="MAINTEXT_LOADING">Mohon menunggu</string>
+    <string name="MAINTEXT_WAIT">Terjadi keterlambatan respons dari server SMS. Game akan dibuka setelah server memproses SMS.</string>
+    <string name="MAINTEXT_UNLOCK_SUCCESS_SILENT">Pembelian berhasil. Selamat menikmati game ini!</string>
+    <string name="MAINTEXT_HELP">Kamu akan menerima kode pengaktifan dalam waktu 5 menit. Periksa kotak pesanmu! Sementara itu, kamu tetap dapat memainkan versi demo! Jika terjadi masalah, hubungi android.support@gameloft.com</string>
+    <string name="MAINTEXT_HELP_NO_IMPUT_CODE">Kamu akan menerima pesan pengaktifan dalam waktu 5 menit. Setelah menerimanya, pilih pemberitahuan untuk mengaktifkan game versi lengkap. Sementara itu, kamu tetap dapat memainkan versi demo! Jika terjadi masalah, hubungi android.support@gameloft.com</string>
+    <string name="MAINTEXT_PLAY_GAME">Kamu akan mencoba game dengan harga $. Dapatkan game ini untuk memainkannya tanpa batasan!</string>
+    <string name="MAINTEXT_SUPPORT">"Info dan Layanan Pelanggan: 
+ www.gameloft.com 
+ support@gameloft.com"</string>
+    <string name="MAINTEXT_CONFIRMATION_SMS_CLOSE">SMS akan dikirim. Untuk melanjutkan, aplikasi akan ditutup. Apakah kamu yakin?</string>
+    <string name="MAINTEXT_CONFIRMATION_SMS">SMS akan dikirim. Apakah kamu ingin melanjutkan?</string>
+    <string name="MAINTEXT_CONFIRMATION_WAP_CLOSE">Peramban ponsel akan dibuka. Untuk melanjutkan, aplikasi akan ditutup. Apakah kamu yakin?</string>
+    <string name="MAINTEXT_CONFIRMATION_WAP">Peramban ponsel akan terbuka. Apakah kamu ingin melanjutkan?</string>
+    <string name="MAINTEXT_CONFIRMATION_EXIT">Apakah kamu yakin ingin keluar?</string>
+    <string name="MAINTEXT_SELECT_COUNTRY">Silakan pilih negara</string>
+    <string name="MAINTEXT_SELECT_CARRIER">Silakan pilih operator</string>
+    <string name="MAINTEXT_SELECT_CARRIER_NEW">Pilih operator untuk membeli game ([PRICE] + biaya SMS )</string>
+    <string name="MAINTEXT_SELECT_LANGUAGE">Silakan pilih bahasa</string>
+    <string name="MAINTEXT_LANDSCAPE_MODE">Game ini tidak didukung dalam mode lansekap. Kembalikan perangkat ke mode potret.</string>
+    <string name="MAINTEXT_PORTRAIT_MODE">Game ini tidak didukung dalam mode potret. Kembalikan perangkat ke mode lansekap.</string>
+    <string name="MAINTEXT_SMS_CONFIRM">Untuk mengaktifkan game ini, silakan masukkan kode. 50 SMS / 100 pulsa. Harga sudah termasuk pajak. Kode Konfirmasi: (CODE)</string>
+    <string name="MAINTEXT_SMS_CONFIRM_AUSTRALIA">Untuk membeli game ini, masukkan kode konfirmasi (CODE).</string>
+    <string name="MAINTEXT_SMS_CONFIRM_INFO">Jika kamu tidak memiliki cukup pulsa, biaya game akan ditagih secara berkala.</string>
+    <string name="MAINTEXT_SPECIAL_SMS_CONFIRM">"(PRICE) ditambah biaya satu SMS bertarif standar akan dibebankan ke tagihan ponsel atau dipotong dari pulsa prabayar.
+
+Dengan memilih Beli Sekarang, kamu mengonfirmasikan telah berusia lebih dari 16 tahun dan memiliki izin dari pembayar tagihan untuk melakukan pembelian ini."</string>
+    <string name="MAINTEXT_RECOVERY">"Anda akan menerima kode pembuka dalam waktu 5 menit. Periksa kotak masuk Anda!
+Anda masih dapat memainkan versi demo untuk sementara waktu atau memulai lagi proses pembelian dan membeli kode pembuka lain dengan memilih lanjut."</string>
+    <string name="MAINTEXT_MINUTE">(MINUTE) menit</string>
+    <string name="MAINTEXT_MINUTES">(MINUTE) menit</string>
+    <string name="MAINTEXT_SECOND">(SECOND) detik</string>
+    <string name="MAINTEXT_MINUTE_AND_SECOND">(MINUTE) menit (SECOND) detik</string>
+    <string name="MAINTEXT_MINUTES_AND_SECOND">(MINUTE) menit (SECOND) detik</string>
+    <string name="MAINTEXT_GO_TO_BUY_TOUCH">Sentuh di sini untuk membeli.</string>
+    <string name="LANGUAGE">Bahasa Indonesia</string>
+    <string name="HEP_DEVICE_INVALID">Game ini hanya dapat dimainkan di (DEVICE_NAMES).</string>
+</resources>

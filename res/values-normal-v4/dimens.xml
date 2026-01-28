@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">8.0dip</dimen>
+    <dimen name="activity_vertical_margin">4.0dip</dimen>
+    <dimen name="activity_top_margin">0.0dip</dimen>
+    <dimen name="wigp_mainloading_horizontal_progessbar_height">15.0dip</dimen>
+    <dimen name="wigp_mainloading_horizontal_progessbar_width">300.0dip</dimen>
+    <dimen name="wigp_button_w">32.0dip</dimen>
+    <dimen name="wigp_button_h">32.0dip</dimen>
+    <dimen name="wigp_button_margin">6.0dip</dimen>
+    <dimen name="wigp_bgtext_size">18.0dip</dimen>
+    <dimen name="wigp_text_size">16.0dip</dimen>
+    <dimen name="wigp_screenshot_text_size">20.0dip</dimen>
+    <dimen name="wigp_welcome_image_padding_top">5.0dip</dimen>
+    <dimen name="wigp_playnow_button_margin_bottom">3.0dip</dimen>
+    <dimen name="wigp_playnow_text_padding_top">10.0dip</dimen>
+    <dimen name="wigp_playnow_text_padding_left">20.0dip</dimen>
+    <dimen name="wigp_playnow_text_padding_right">2.0dip</dimen>
+    <dimen name="wigp_playnow_text_padding_bottom">20.0dip</dimen>
+    <dimen name="wigp_screenshot_text_margin_left">20.0dip</dimen>
+    <dimen name="wigp_screenshot_text_margin_bottom">7.0dip</dimen>
+    <dimen name="wigp_screenshot_text_background_height">50.0dip</dimen>
+</resources>

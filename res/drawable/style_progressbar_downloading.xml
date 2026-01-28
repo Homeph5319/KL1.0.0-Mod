@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <bitmap android:gravity="center" android:src="@drawable/loadingbar_background" android:tileMode="disabled" />"
+</item>
+    <item android:id="@android:id/secondaryProgress">
+        <clip>
+            <shape>
+                <corners android:radius="5.0dip" />
+                <gradient android:startColor="#ff000000" android:endColor="#ff000000" android:angle="90.0" />
+            </shape>
+        </clip>
+    </item>
+    <item android:id="@android:id/progress">
+        <bitmap android:gravity="center" android:src="@drawable/loadingbar_foreground" android:tileMode="disabled" />"
+</item>
+</layer-list>

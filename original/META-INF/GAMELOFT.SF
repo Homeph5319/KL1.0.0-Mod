@@ -1,0 +1,734 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: fY2ptQpb9W+bW9rGTtNUbVLYxag=
+Created-By: 1.6.0_01 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: oipPJptlGDFlTHecR++QRxMPqJc=
+
+Name: res/drawable/loadingbar_background.png
+SHA1-Digest: 2fyhWAaYG5Pki4JNEdRaJG6vS3I=
+
+Name: res/layout-land/layout_carrier_selection.xml
+SHA1-Digest: 5tOiHnne+GKSEd8PrQvABLFh5+k=
+
+Name: res/drawable/wigp_style_button_play_press.xml
+SHA1-Digest: n+Fb9E6B6JWU1supLEBJz3IZj9s=
+
+Name: assets/config.dat
+SHA1-Digest: lvmZyKumuKV9mCw5GpFoqPn57cE=
+
+Name: res/drawable/button_background_softkey.xml
+SHA1-Digest: ZTEbpgjXT6NAxl0A/G29r0L7HjU=
+
+Name: res/drawable/wigp_background_moregame_press.png
+SHA1-Digest: uSMtsSlJoCNRZKkNha08H5RyVao=
+
+Name: res/layout/wdigp_main.xml
+SHA1-Digest: +ViP0MSkZQH6fF3Leqc8c0yafGg=
+
+Name: res/drawable/gi_alpha_box.jpg
+SHA1-Digest: 3HF5O+P+Kx46scfrFcAWT79msvw=
+
+Name: res/layout/layout_loading.xml
+SHA1-Digest: uStZIDwjj9M3xmtYUjbUKjR7WEo=
+
+Name: res/drawable/splash.png
+SHA1-Digest: +EIOX3KdvO0SriVMhuLOA5U1Cp4=
+
+Name: res/layout/wdigp_game_item.xml
+SHA1-Digest: dTBJwlUgxZP52qOBuHwz2Z5YxB0=
+
+Name: res/drawable/background_alpha_box.png
+SHA1-Digest: iXR2hitZBUtutjs3vTm1FazVVUk=
+
+Name: assets/dataIGP_800x480
+SHA1-Digest: ZwrCSUpZ4I69tCq4PKLV89Hkepg=
+
+Name: res/layout/layout_sms_wait_unlock.xml
+SHA1-Digest: w3/JXr1kxf6Rrh4/OkRU/hKVUbM=
+
+Name: res/layout-land/layout_help.xml
+SHA1-Digest: XcJacEQWlFSil4rtRHOUtd7E8us=
+
+Name: res/drawable/background_dialog_title2.png
+SHA1-Digest: x2agBDAVp2vEXgOKk8zREx20NXU=
+
+Name: res/drawable/wigp_btn_next.png
+SHA1-Digest: RZqoYt7Q+dlTNQxJWhmejszBYVk=
+
+Name: res/drawable/icon_g.png
+SHA1-Digest: Mf6wpmffGr8ra08hlYaVPJPPyY4=
+
+Name: assets/smsWrapperLanguages
+SHA1-Digest: F9Qu9H9iPxQQpdBctSDgVMmg2BU=
+
+Name: res/drawable/wigp_btn_close.png
+SHA1-Digest: HgBGuDhmslye8gIsDScKGl3GgPo=
+
+Name: res/drawable/gameloft_logo.png
+SHA1-Digest: dEi/w86ei4fNi6l01yUcw4FHrLI=
+
+Name: res/layout/layout_sms_sent_sucess.xml
+SHA1-Digest: YYYM3zFlzWk1wyovHyXc+TUM+Zs=
+
+Name: res/layout-land/layout_sms_sent_sucess.xml
+SHA1-Digest: bCUkGi17SDkiMLUS64UBmumZGWc=
+
+Name: assets/iaks
+SHA1-Digest: BJPJjKJwqrHaUqZky3PkagqHsic=
+
+Name: res/drawable/sk_back_selected.png
+SHA1-Digest: 2z+ky4TR3qe8e+YmA1v9rtvXf10=
+
+Name: assets/DefaultProfiles
+SHA1-Digest: 48WnUVnVtfzoNPemWfO3Nd8kyRA=
+
+Name: assets/profilesLog.txt
+SHA1-Digest: 2raImgrxxYRFkHRJdsfTq2hpOfk=
+
+Name: res/layout-land/layout_legal.xml
+SHA1-Digest: Xkvgoh7kQlFr/v4FVEEenlLMI84=
+
+Name: res/layout/layout_legal.xml
+SHA1-Digest: fShJLc8bgnjFlRxUlFYNJFyNLmU=
+
+Name: res/layout-land/layout_sms_confirm.xml
+SHA1-Digest: FluRxTuLgq17duHV/lNqpeKDXgg=
+
+Name: res/drawable/wigp_style_background_button_press.xml
+SHA1-Digest: E/ymL5BOMb4Elw/koaueJ87NlWs=
+
+Name: res/layout/layout_osconfirmation.xml
+SHA1-Digest: xZMZuesx1KPui3VBFEVWOptUeoY=
+
+Name: assets/profileListVersion
+SHA1-Digest: Gt4jpmYGwHmMt13XCVOJhmQSpGE=
+
+Name: res/drawable/wrapper_logo.png
+SHA1-Digest: +ggrpKsCWWeSVeb2G/llZQJkfN8=
+
+Name: res/layout-land/layout_sms_wait_unlock.xml
+SHA1-Digest: VvoIbLizPyi7F87A3XqgsKMLk5g=
+
+Name: res/drawable/amxw_my_games.jpg
+SHA1-Digest: FfdipB4r04nInHFXzQo9fRQ+aQc=
+
+Name: res/layout-land/layout_main_menu.xml
+SHA1-Digest: nVo94cXNUT7sbUJk+D4fHHXMwOE=
+
+Name: res/layout/layout_will_play_demo.xml
+SHA1-Digest: Nz0AXWD4PIMai2JZaBM1yieWQz0=
+
+Name: assets/IAP_Contents
+SHA1-Digest: d6zFEibZdTYsGx5eTZZhVHVxqts=
+
+Name: res/layout-land/layout_sms_buy_menu.xml
+SHA1-Digest: BRnOZUvBLwCo8dHkOjq1HJ4DkFk=
+
+Name: res/layout/layout_gameloftlogo.xml
+SHA1-Digest: Z1bayZ6FXQMkpQglfQRn1IcQjWY=
+
+Name: res/drawable/wigp_btn_moregame.png
+SHA1-Digest: MfW8PgZctRnMkV/bSDEGL7u7PKI=
+
+Name: res/drawable/wigp_background_moregame.png
+SHA1-Digest: 6VjdUvEp3o8cXGcR4kg/xHS5D/g=
+
+Name: res/layout/wdigp_landscape.xml
+SHA1-Digest: +XhKh9H0b/YBekJkRTiQcVf2ntQ=
+
+Name: res/layout/layout_input_code.xml
+SHA1-Digest: 4HIho2xroJZeN5UaUgxtnxNNIBw=
+
+Name: res/drawable-ldpi-v11/pn_status_icon.png
+SHA1-Digest: skYPMdwRuX1IV+Txdrz3ZWW7W84=
+
+Name: assets/7.2
+SHA1-Digest: qXRtad0Zf4x0kA1wKHK+4Nr05lg=
+
+Name: assets/7.1
+SHA1-Digest: gmr52BooFDXf+QRg2EeRm/lZcvk=
+
+Name: lib/armeabi/libKILOnativeU.so
+SHA1-Digest: cs5sgX34VKVNylGVJB70f0+S4og=
+
+Name: res/drawable-xhdpi/pn_status_icon.png
+SHA1-Digest: BOjxfurQtWNaNQOUlmntON19Cnc=
+
+Name: assets/dejavusans.ttf
+SHA1-Digest: BIPwCpn3DbRUw7J4Im9XO/HyPBY=
+
+Name: res/drawable/sk_back_focus.png
+SHA1-Digest: rtlZV0W/xFHqRp/GgJemAj1uDO8=
+
+Name: assets/3.1
+SHA1-Digest: cQn/YVvBgkQYR0uOzw7IhKU+VC8=
+
+Name: assets/7.9
+SHA1-Digest: tpGXFrrFr78P50cy36EMU1dSCz4=
+
+Name: assets/7.7
+SHA1-Digest: GKha/x5K/E0gM9p34GGVjnBlByw=
+
+Name: res/layout-land/layout_unlocked.xml
+SHA1-Digest: M0Indxqlnl2EVLPzXlqk8G8brlc=
+
+Name: assets/7.8
+SHA1-Digest: mjFp5hsPVgHMLPrB/T+nzX/xJR4=
+
+Name: res/layout/layout_install.xml
+SHA1-Digest: SXD652vqVb1DS9Y6h13lABDsnAo=
+
+Name: assets/7.5
+SHA1-Digest: xcuZqxnJqsk97+dbwnWz8BNXW0A=
+
+Name: assets/7.6
+SHA1-Digest: sFPep4BN6DY8pfX3ZTurBaNhHUM=
+
+Name: assets/7.3
+SHA1-Digest: X33JlHQYfw/kjPlAah66SPFCLN4=
+
+Name: res/layout-land/layout_sms_sent_sucess_igp.xml
+SHA1-Digest: owRghnHPmalGqemXb0reht+yoOQ=
+
+Name: assets/7.4
+SHA1-Digest: tURCUmmqcJrqWnb5nm4rCO/zqjE=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: P1HO6qPU4ynA1szN0viVyT+3SWo=
+
+Name: assets/2.2
+SHA1-Digest: gCIlC3R+aB/JNsaLwL6tOrIPr/U=
+
+Name: assets/2.3
+SHA1-Digest: UadPleyo71mZf15dShUDcOnryVo=
+
+Name: res/layout/com_facebook_login_activity_layout.xml
+SHA1-Digest: 3kdPdS3uHkBRPmjyXKOmZTxU2/A=
+
+Name: assets/2.1
+SHA1-Digest: 92Igj2xmPiGB24QR/R65/IvtdUg=
+
+Name: res/layout/layout_help.xml
+SHA1-Digest: JLwJ+wSbY1jWCx9QtZvVmSuFWzc=
+
+Name: assets/999
+SHA1-Digest: 5BucA3ZLDoariNEXyhho1kl63io=
+
+Name: res/layout/wdigp_no_game_notify.xml
+SHA1-Digest: jKuq0h1sdeO8dnDOmRlGM6SKm1M=
+
+Name: res/drawable/wigp_style_background_button.xml
+SHA1-Digest: jPbALk6LH+/mn6ScLT6GqSqIlOQ=
+
+Name: res/layout-land/layout_sms_sent_failed.xml
+SHA1-Digest: CYh8ClVbj8sEQJKGN23CkISwTpQ=
+
+Name: res/layout-land/layout_white.xml
+SHA1-Digest: h+RKp9BkNZLa//KISb9FvTW3qc4=
+
+Name: res/layout-land/layout_demo_ended.xml
+SHA1-Digest: umzVLjA0g3dN7MTBtCd8jOOYsH4=
+
+Name: res/layout/layout_main_menu.xml
+SHA1-Digest: cnPX+cqRWEYSWnurYDgmRtYhc70=
+
+Name: res/drawable-land/backgound_update.png
+SHA1-Digest: THX7SVTxxF4xwhQpsfh4TGU8clU=
+
+Name: res/layout/layout_osconfirmation_sp_directiap.xml
+SHA1-Digest: sSneI0F6np2BkTeuMDolqK25zr0=
+
+Name: res/layout/layout_note_recovery.xml
+SHA1-Digest: GcpOQVfQ9g0Y2oo/WQafqKIW6pc=
+
+Name: lib/x86/libKILOgenerator.so
+SHA1-Digest: HbaBcF9SZtAyPRifLGP+hGIi1cY=
+
+Name: res/layout/osconfirmation_germany.xml
+SHA1-Digest: oczi5atBTCsr2fzNP8LdFHS4ODM=
+
+Name: res/raw/content.txt
+SHA1-Digest: ZJoZDqyeLba12h8T1jV1FDcqH4c=
+
+Name: assets/7.10
+SHA1-Digest: QrJZRZAuk3nyl7/QF8XRKMC3FVM=
+
+Name: res/layout-land/main.xml
+SHA1-Digest: pT9sJAN3CkZh4NwNik/+7LvQKaU=
+
+Name: res/drawable/wigp_splash_game.png
+SHA1-Digest: ZUQwVMQ3vPzN25ovEuWFLzi26G8=
+
+Name: res/layout-land/layout_black.xml
+SHA1-Digest: BYi22oArJFPAsV4SHLP+0FYCndY=
+
+Name: res/drawable/wigp_selector_button_close.xml
+SHA1-Digest: pLa/DtaRzC14MRRxFNCD8AGx5sE=
+
+Name: res/layout-land/layout_will_play_demo.xml
+SHA1-Digest: XYu3DFz0rPGAwx1reHt8M0HBn0o=
+
+Name: res/layout/layout_osconfirmation_sp.xml
+SHA1-Digest: 1v5no+F+tPz04HAiE1eXv5CpNdc=
+
+Name: res/drawable/wigp_style_button_next_press.xml
+SHA1-Digest: fzULlIHIUHDKxvgAsjCoUIJexoM=
+
+Name: res/drawable/startbackground.png
+SHA1-Digest: Bmj0htC1oBX5Wck/HMf891Xcwdg=
+
+Name: res/drawable-xhdpi/com_facebook_close.png
+SHA1-Digest: NM6wiWc3gbAJtyqfrUqgdOIGm9A=
+
+Name: res/raw/sms_configs_content.txt
+SHA1-Digest: NZSiouHS2C+Q41S78eeT5DjhVYM=
+
+Name: lib/x86/libKILOnativeU.so
+SHA1-Digest: JgkYT329HEDIuEdKqR9rv8gUWts=
+
+Name: res/drawable/wigp_screenshot_game.jpg
+SHA1-Digest: zkVnlAW42hqVtGSSI8GVEStdlHc=
+
+Name: assets/profiles
+SHA1-Digest: Q4Wsc56zhU/7DUCxdNxzgNUHhC8=
+
+Name: res/drawable-xhdpi/ic_action_search.png
+SHA1-Digest: 772ITFXOlprwo44bOLvLMa3Vdeg=
+
+Name: res/layout/layout_operator.xml
+SHA1-Digest: auW6oSNEw8D8Le0ErQIPQ3p1Gi4=
+
+Name: assets/welcome_logo_EN.png
+SHA1-Digest: W40YY7fNwHXmfjgUMfXf6/m43x0=
+
+Name: res/drawable/wigp_style_button_close_press.xml
+SHA1-Digest: stuZFGCLPNzzRWnPmQAtLyv41pk=
+
+Name: lib/armeabi-v7a/libKILOnativeU.so
+SHA1-Digest: 1ScfW+O0devb0uF5wsMh0E0CtUM=
+
+Name: res/drawable/wigp_btn_moregame_wigp.png
+SHA1-Digest: pA3fpk6IYrZDmsxztrjkRiyDd9U=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: bMibfNqZRu7DVz2eR0O+ZpPeg4A=
+
+Name: res/drawable/wrapper_background.png
+SHA1-Digest: FOtcNJJlJnW6p5qpZhjmoprDygA=
+
+Name: res/drawable-ldpi-v9/pn_status_icon.png
+SHA1-Digest: cDiwp7HnL7+xjZNArv3yE/aP22s=
+
+Name: res/layout/wdigp_loading.xml
+SHA1-Digest: QnQQStZf5QGvUxVpFRJsjQSUT+M=
+
+Name: res/layout/wdigp_portrait.xml
+SHA1-Digest: yPoF/1qoMJ+hUB08hMczml82OPo=
+
+Name: res/layout/layout_autodetect_country.xml
+SHA1-Digest: bf8NXcxs0xc9Adi5MNsEoIxvRCY=
+
+Name: res/drawable/wigp_background_dialog.png
+SHA1-Digest: eTGgcvwmxXl6XiULmZFOCw635WQ=
+
+Name: res/drawable-mdpi/german_buy_button.xml
+SHA1-Digest: NBiANvwdmn7o7SYUiaB0fERpxBE=
+
+Name: res/drawable-land/icon_g.png
+SHA1-Digest: N2Y52lwlsw2dsT7XvOPtoi0cahg=
+
+Name: res/layout/webview.xml
+SHA1-Digest: V8AusX6tdD61Edh0QCI1tpE3ARQ=
+
+Name: assets/profiles.xml
+SHA1-Digest: bW1V3ltN7vvJC40ZFeAaqyB6bGY=
+
+Name: res/layout-land/layout_unlocked_silent.xml
+SHA1-Digest: SvzBYGzX0coHiKZCz0ESJdlE/Gc=
+
+Name: assets/888
+SHA1-Digest: ZFkVUlaPGJTPXAVZcadpHMyBt6E=
+
+Name: res/drawable/wigp_selector_button_moregame_wigp.xml
+SHA1-Digest: ABbavp5CIoxnm5q9d7VGNFouA6g=
+
+Name: res/drawable-land/gameloft_logo.png
+SHA1-Digest: GVlpJ90iBW9BaAUCjviP4jj4BHs=
+
+Name: res/layout/layout_sms_sending.xml
+SHA1-Digest: ZBiyU39CZlc7FFIPKO67yly+i+M=
+
+Name: res/drawable/wigp_background_moregame_wigp_press.png
+SHA1-Digest: OIcaZ0mENuemOG4Ty+h1iDbYqxI=
+
+Name: assets/10
+SHA1-Digest: 5S/H46xBMH2FJ2s4Lm10BDFZYo8=
+
+Name: res/drawable/wigp_text_playnow.png
+SHA1-Digest: SYOwUyCGIru3wAwJVMO16e6krfU=
+
+Name: res/layout-land/layout_note_recovery.xml
+SHA1-Digest: TSxmevgCiWMbM8TYN+ycXjkc4Xs=
+
+Name: lib/armeabi-v7a/libKILOgenerator.so
+SHA1-Digest: DNO+1H5N6IBm0vTCAWvXJ2S48Kk=
+
+Name: res/layout-land/layout_wait_to_copy.xml
+SHA1-Digest: 4SV18XBwf/tPqkaF/CYUh/HvPyk=
+
+Name: res/drawable/button_normal_german.9.png
+SHA1-Digest: 8vC8FiDZnFWsI1OFYFIXAlOXk3g=
+
+Name: lib/armeabi/libKILOgenerator.so
+SHA1-Digest: BW7D7BlfFy6TXHmnzJYIKT7KPq8=
+
+Name: assets/values/dimens.xml
+SHA1-Digest: S2xBZoGrEVDcGtmEGlFUF6D//Hs=
+
+Name: res/layout-land/layout_input_code.xml
+SHA1-Digest: qYLCEnBQ94ovprHSZL76W3YRjPo=
+
+Name: assets/welcome.png
+SHA1-Digest: vP9t77QnqhQ4MaFEHCU1KmNcMw8=
+
+Name: res/drawable-mdpi-v11/pn_status_icon.png
+SHA1-Digest: 4YjuXLN8p3wOu/1VZtEJ/sWeIE4=
+
+Name: res/drawable/wigp_progress_background.png
+SHA1-Digest: yZblD2pnskI/fVLlSom9z0eaB7U=
+
+Name: assets/4
+SHA1-Digest: zmyIV73hFVaWvLwRUV7c5/DjUpE=
+
+Name: assets/5
+SHA1-Digest: 5dp5NehHHxCAFfRswoIc5vurAg8=
+
+Name: assets/6
+SHA1-Digest: kJwOx+8YgZqTa4hTx7Zkgp0P82E=
+
+Name: assets/7
+SHA1-Digest: FcCSM5iGNvkY1dbipeCpFBbzgh0=
+
+Name: assets/8
+SHA1-Digest: 1mx8OmeCM42qoB9+dkRNXIetS9U=
+
+Name: assets/9
+SHA1-Digest: B/OPSB9vzLWO5rGYD5Z+tSu7+jA=
+
+Name: res/drawable/layout_background_dialog.png
+SHA1-Digest: zEDeUn0RRxZv0GPqbExe1v+etgQ=
+
+Name: assets/0
+SHA1-Digest: 0xa6lAei8XdstqfphnduuvLBWpk=
+
+Name: res/drawable/style_progressbar_downloading.xml
+SHA1-Digest: O2YNAkpo0GovdUzAt+O8p0DgwW8=
+
+Name: assets/1
+SHA1-Digest: IJ7q3/ffetW/ZKei2o49HPBA3Dc=
+
+Name: assets/2
+SHA1-Digest: CeY1WR7zwknDD9IihxA+MZoxvuA=
+
+Name: res/drawable/button_normal.9.png
+SHA1-Digest: kjZtphC6aCRW74oTM7KW8VUEh+8=
+
+Name: assets/3
+SHA1-Digest: mZIP21ZHZmDPez/WOZf4TNxlApc=
+
+Name: res/drawable-xhdpi-v9/pn_status_icon.png
+SHA1-Digest: RFmyXrCz3zgAKEYsjh0798czsxs=
+
+Name: res/layout-land/layout_country_selection.xml
+SHA1-Digest: PtGhHH/llb9EKEtn8H5/f4FrXF4=
+
+Name: res/layout/layout_osconfirmation_directiap.xml
+SHA1-Digest: SE+khbd5kTnedcK4WQamG+iUiig=
+
+Name: res/drawable/button_focus.9.png
+SHA1-Digest: tIIDGwD3tDTPse7CjC5IBlgp/nw=
+
+Name: assets/IAP_profiles
+SHA1-Digest: eYgw0QQk2wAfQ98YYKN1GwX6qQ0=
+
+Name: res/layout-land/layout_install.xml
+SHA1-Digest: BOPo4NTzY/tviFwjcvfU1sojVvk=
+
+Name: res/drawable/button_selected.9.png
+SHA1-Digest: 0FldTWRe4V8FyiBdk2/sWJzWqOs=
+
+Name: res/drawable-hdpi/ic_action_search.png
+SHA1-Digest: WvsoZfcfGbz7vtTCwzXLh3VcxFw=
+
+Name: res/menu/activity_main.xml
+SHA1-Digest: NYCAaEJLHh081elleBxDEeDx+70=
+
+Name: res/layout-land/layout_sms_sending.xml
+SHA1-Digest: xCFPEkD+S0OVEZNUI8nNyz8va3U=
+
+Name: res/layout/layout_sms_sent_sucess_igp.xml
+SHA1-Digest: VxYKL1QvN2UFpDnGe/hM2ZX41PQ=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: vP+OGLocMuIdrhTVDYURg3U8ucg=
+
+Name: resources.arsc
+SHA1-Digest: 3zOzW3dtp8SdbVjrSaGIIQxHoGE=
+
+Name: assets/9.3
+SHA1-Digest: ZROv2c6vdRDTM0H2stEDonyHZME=
+
+Name: assets/9.1
+SHA1-Digest: NJQ1r4pL18Mqueq6FAn0QtgavmE=
+
+Name: res/layout/layout_recover_igp_mo.xml
+SHA1-Digest: c3hmkv/XV4p5siVAXxNZn71R800=
+
+Name: assets/9.2
+SHA1-Digest: 4JpfdGDs12aClNb4fBX0s9C9aVQ=
+
+Name: res/layout/layout_sms_confirm.xml
+SHA1-Digest: GdAQ67O9QEynaJn0SWBwW6O1Sfg=
+
+Name: res/layout/wigp_screenshot.xml
+SHA1-Digest: pOpmAs9oOtmtkEPqk6VvzTBs8Ps=
+
+Name: res/drawable/image_view_game_icon_default.png
+SHA1-Digest: VKn18HNDK5TZS4aGRhHANB7YDsg=
+
+Name: res/raw/serialkey.txt
+SHA1-Digest: bay3Md46aPWdIv2sV5bVvzxSWYA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: CTvnXGoCDJPok1eIWclE32/mAio=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: QQjEUHvpu1v/M/55EQWoGBLqKxI=
+
+Name: res/drawable/wigp_style_mainloading_progressbar.xml
+SHA1-Digest: a7kqg5BoeguO6qYkrYUP7K10sGg=
+
+Name: res/layout/layout_osselection_cc.xml
+SHA1-Digest: +X7LvndHBwrKmgPiZ/pdZqM93As=
+
+Name: res/drawable/wigp_background_mask.png
+SHA1-Digest: jYtzPF6v6YEhQOioRHLrf9Th2f4=
+
+Name: res/drawable/background.xml
+SHA1-Digest: bVqLAzx+OPXhddCjDpXBCN01Cho=
+
+Name: res/drawable/pn_custom_icon.png
+SHA1-Digest: tVd/XrIgALYdUyMQ45SU7GICBS8=
+
+Name: res/drawable/layout_background_title.png
+SHA1-Digest: qfQEcDtOTr2n9mpcnpOe8ip9E74=
+
+Name: res/drawable/scrollbar_vertical_track.xml
+SHA1-Digest: lLV0ITYWhfC8BveJcaOVcbgupBU=
+
+Name: assets/events.json
+SHA1-Digest: FV9EYSmK3h/XHLY3Ceugm4Rh8dY=
+
+Name: res/layout/layout_sms_buy_menu.xml
+SHA1-Digest: qfmqdAOFvdPxRAya764UMNhioR0=
+
+Name: assets/IGPSpr
+SHA1-Digest: G3Yi2JRwRUgaODwkB2ul0wq+g70=
+
+Name: res/drawable/wigp_selector_button_moregame.xml
+SHA1-Digest: 0sR+m//mbiemJ+dZr4FX57UB7BU=
+
+Name: res/drawable-ldpi/com_facebook_close.png
+SHA1-Digest: g4PENR8eKEZDz5JFcKQRjNes7IY=
+
+Name: classes.dex
+SHA1-Digest: atr42DyWjHFcwn2ozZ14oBeThFc=
+
+Name: res/drawable/backgound_update.png
+SHA1-Digest: iU9pIb9dqn9Xhkum2+WQfTqHZXk=
+
+Name: res/layout-land/layout_base.xml
+SHA1-Digest: UjEl5PssM9CfY33n8ibqsxkjS1Y=
+
+Name: res/drawable/sk_back_normal.png
+SHA1-Digest: Gk4YCLx61l+8cI1M6BT4gi3QYNo=
+
+Name: res/drawable/image_view_game_splash_default.png
+SHA1-Digest: 5YoGo402WQ2xXoLvsynpifq0xEU=
+
+Name: res/drawable/icon.png
+SHA1-Digest: 1BKgO0B8ppHKA3WSMhrJ/oTWPNY=
+
+Name: res/layout/layout_unlocked.xml
+SHA1-Digest: 0UvpFCnsl983SQIx6zm9uU5fEbM=
+
+Name: res/drawable/scrollbar_vertical_thumb.xml
+SHA1-Digest: +FHE5c77U3F9DzVYas129oxv7wE=
+
+Name: res/drawable/wigp_progress_foreground.png
+SHA1-Digest: SNjFkbOKr7u+wbpajwc/c/BNNCw=
+
+Name: res/drawable-hdpi/pn_status_icon.png
+SHA1-Digest: X5qn169skJMTTvDCMmaaf5Gao5w=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: UHl3IEcuAf/i+FGmuG09opVumSU=
+
+Name: res/drawable-mdpi/ic_action_search.png
+SHA1-Digest: jAGFiT7RUDOYcmBQqk2FP01Xtb0=
+
+Name: res/drawable/wigp_style_button_play.xml
+SHA1-Digest: +J8asp1rPzuMnqaNebDjVQDErVU=
+
+Name: res/drawable-ldpi/pn_status_icon.png
+SHA1-Digest: lnoJGtTyezrtTi/mHpUlBwhLa0g=
+
+Name: res/layout/layout_wait_to_copy.xml
+SHA1-Digest: pGD06TyIzKAbkhL5NqppaIEOspU=
+
+Name: res/layout/wdigp_newloading.xml
+SHA1-Digest: v8s/Pn9N4sioOmN6Nu90utULCy4=
+
+Name: res/raw/nih.bin
+SHA1-Digest: ptHIfoZqwE7KJvscK4J5THEEBZA=
+
+Name: res/drawable/wigp_background_welcome_mask.png
+SHA1-Digest: FaLb3UeFgId/KSOMsU86rjPFKuM=
+
+Name: res/drawable/wigp_style_button_close.xml
+SHA1-Digest: CUXG0DTOG3EmH4cTVO+ZXZr88mE=
+
+Name: assets/IAP_SpecialFlowTexts
+SHA1-Digest: NNcKeiby2/WFIUenhSkSmJKbuwI=
+
+Name: assets/IAP_texts
+SHA1-Digest: 79k11GGGTEMxrp5343o8Tb17lPY=
+
+Name: res/layout/layout_sms_sent_failed.xml
+SHA1-Digest: Z2Up3CD5N3wz83djJVY3YhohsdQ=
+
+Name: res/layout/layout_sms_game_not_available.xml
+SHA1-Digest: bcw+hjcwV2qif6l2vLrEbhlvVoQ=
+
+Name: res/drawable/button_background_disabled.xml
+SHA1-Digest: uA/x04BrOb+QXuwHphmdoOGzT1Q=
+
+Name: assets/IAP_ProfileProperties.txt
+SHA1-Digest: RRrUPo748f0AlBvR5Qi8VPylpoU=
+
+Name: res/drawable-hdpi-v11/pn_status_icon.png
+SHA1-Digest: eROg/Q4WFgEdPvOIIV+O15VBzSE=
+
+Name: res/layout/layout_country_selection.xml
+SHA1-Digest: h31HLHUia5+wLLII7Qw558DuFDo=
+
+Name: res/drawable/loadingbar_foreground.png
+SHA1-Digest: SlpGOQAaBBm9fVlmj8C5YPaB8n4=
+
+Name: res/layout-land/layout_operator.xml
+SHA1-Digest: GSWzxxFzykZxGt4S3wfaPBFcbQM=
+
+Name: res/drawable/wigp_selector_button_play.xml
+SHA1-Digest: a+7TAkRovgIKiie1r2ywl0n3t1k=
+
+Name: res/drawable-mdpi-v9/pn_status_icon.png
+SHA1-Digest: /uI0zcpYFuV/u39WLykx4NaLvJY=
+
+Name: res/layout/layout_language_selection.xml
+SHA1-Digest: NrDyC/9XkE+wuZDVHxjooTej8P8=
+
+Name: res/layout/main.xml
+SHA1-Digest: qvMM233meujkLrAFFNewV7ByFbs=
+
+Name: res/layout-land/layout_gameloftlogo.xml
+SHA1-Digest: Ko0dRXMZled9RkbnKEoqF/qCwUc=
+
+Name: res/layout/custom_notification_layout.xml
+SHA1-Digest: py1VCSO1bUlfLCDdV6h/wGhejRw=
+
+Name: res/drawable/pn_status_icon.png
+SHA1-Digest: nfhs/CzbIfI5p9SDWRbGVSV99ds=
+
+Name: assets/weibosdk_dialog_bg.9.png
+SHA1-Digest: 5FZnHjdkiprJVHlId6nxrXMo89A=
+
+Name: res/drawable/wigp_background_moregame_wigp.png
+SHA1-Digest: miX/yPQZTIyHDylfUHzx8JdV12U=
+
+Name: res/layout/layout_carrier_selection.xml
+SHA1-Digest: DNIirO2W2olKgCv6VJdjZv7kssA=
+
+Name: res/drawable/button_disabled.9.png
+SHA1-Digest: khGGv5/NnSJ6dV1UFlecYFNuB6Q=
+
+Name: res/raw/crc.bin
+SHA1-Digest: TJuxeAN396Z6E8s62HC3B3Gmn4c=
+
+Name: assets/IAP_EmbeddedFormatVersion.txt
+SHA1-Digest: +xZgCn+WsAazxofZ+Mm7Q/miOjI=
+
+Name: assets/smsWrapperInfo
+SHA1-Digest: HYaHouTukP+KwpZaAE+2EyaJ66w=
+
+Name: res/layout/layout_confirm_update.xml
+SHA1-Digest: g2ofsa7nk9rLcmBCJjkj3WqojrI=
+
+Name: res/layout/wdigp_downloading.xml
+SHA1-Digest: LovshTeDdjca37/dB6mIfOn6GXM=
+
+Name: res/drawable/wigp_btn_play.png
+SHA1-Digest: OUuSoNGf4oaxPHT8QNtUvDuUFUE=
+
+Name: res/layout/layout_unlocked_silent.xml
+SHA1-Digest: BguJcNhah+25bOepqbp1mOeDGb8=
+
+Name: res/layout/layout_demo_ended.xml
+SHA1-Digest: 6jMT+F8xsyzSa9kqxHwWr8zcRoA=
+
+Name: res/drawable-hdpi-v9/pn_status_icon.png
+SHA1-Digest: kk4K5NlUo0Qscy6K/MT2BLlWWMU=
+
+Name: res/layout/layout_downloading_dialog.xml
+SHA1-Digest: BeusBdopQOPqLMsXJtEXw34SvJw=
+
+Name: res/drawable/wigp_style_button_next.xml
+SHA1-Digest: V9uukzPwBDn4pW93O+Rhyn06Og0=
+
+Name: res/drawable/background_sms.xml
+SHA1-Digest: 1bWpr32DyR3cJECZQtE9I+Ir1Go=
+
+Name: res/layout/layout_recover_igp.xml
+SHA1-Digest: EXyNYxdINriarpcWwdWsSfpfJLY=
+
+Name: res/drawable-mdpi/pn_status_icon.png
+SHA1-Digest: i6F34l/8QI9gLxIsfvrun1KJKE0=
+
+Name: res/layout/layout_base.xml
+SHA1-Digest: sO6SKSV4v8jk0/VOLI6bOcGKHdA=
+
+Name: res/drawable/wigp_welcome_game.bmp
+SHA1-Digest: cSUOBqZw0mH0+g6PgWculI3RcrM=
+
+Name: res/layout-land/layout_language_selection.xml
+SHA1-Digest: SFgmSecjY4rGY8l2OCzDpU3YU5I=
+
+Name: res/drawable/wigp_selector_button_next.xml
+SHA1-Digest: TOMDE4dsSpuZquy0Jc8SySF0IKk=
+
+Name: res/drawable/wigp_logo_game.png
+SHA1-Digest: gTpRYCTe3z0JfitXeqcpuL88BpE=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: bNgCecY+O/VUZlT3Wkiqpaohic4=
+
+Name: res/drawable-hdpi/com_facebook_close.png
+SHA1-Digest: IB/yHutbOubXtaeaHEzdzihRQDQ=
+
+Name: res/drawable-xhdpi-v11/pn_status_icon.png
+SHA1-Digest: Fhvn9SaeXNEist+E3e+aKnKlQlw=
+
+Name: res/drawable/button_background.xml
+SHA1-Digest: DbBGbLkSgbvZ+8NGtNITEyDwjqQ=
+
+Name: res/drawable/com_facebook_close.png
+SHA1-Digest: iXaFXmmm9WM0M57RMrRX/5YEWSI=
+

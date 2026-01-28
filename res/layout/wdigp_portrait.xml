@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/wigp_main_layout" android:background="@color/igp_background_main_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:layout_gravity="right" android:id="@id/wigp_btn_main_close" android:background="@drawable/wigp_selector_button_close" android:layout_width="@dimen/wigp_button_w" android:layout_height="@dimen/wigp_button_h" android:layout_marginTop="5.0dip" android:layout_marginRight="7.0dip" />
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:background="@color/igp_background_main_color" android:paddingLeft="@dimen/activity_horizontal_margin" android:paddingTop="@dimen/activity_vertical_margin" android:paddingRight="@dimen/activity_horizontal_margin" android:paddingBottom="@dimen/activity_vertical_margin" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false">
+        <LinearLayout android:orientation="horizontal" android:id="@id/wigp_list_layout" android:background="@color/igp_background_main_color" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.75">
+            <ListView android:id="@id/igp_listview_games" android:background="@color/igp_background_main_color" android:scrollbars="none" android:layout_width="wrap_content" android:layout_height="wrap_content" android:dividerHeight="1.0dip" android:choiceMode="singleChoice" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="horizontal" android:id="@id/wigp_moregame_layout" android:paddingTop="3.0dip" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.25">
+            <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@id/wigp_layout_welcome_more_game" android:visibility="visible" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="0.4">
+                <RelativeLayout android:gravity="center" android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <ImageView android:id="@id/wigp_img_more_game_background_wigp" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/wigp_selector_button_moregame" />
+                    <ImageView android:id="@id/wigp_img_more_game_wigp" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/wigp_btn_moregame" android:layout_centerInParent="true" />
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@id/wigp_layout_welcome_page" android:visibility="visible" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.6">
+                <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"> android:layout_gravity="center" >
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true">
+                        <RelativeLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/wigp_layout_welcome_splash" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_weight="0.65">
+                            <ImageView android:layout_gravity="center" android:id="@id/wigp_img_welcome" android:paddingTop="@dimen/wigp_welcome_image_padding_top" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/wigp_welcome_game" android:scaleType="fitXY" android:layout_centerInParent="true" />
+                            <ImageView android:layout_gravity="bottom" android:id="@id/wigp_img_welcome_logo" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/wigp_welcome_game" android:scaleType="fitXY" android:layout_centerInParent="true" />
+                        </RelativeLayout>
+                        <RelativeLayout android:layout_gravity="center" android:id="@id/wigp_layout_playnow" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.35">
+                            <ImageView android:id="@id/wigp_img_text_play_now_mask" android:background="@color/igp_background_playnow" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                            <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true">
+                                <LinearLayout android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.75">
+                                    <ImageView android:layout_gravity="right|center" android:id="@id/wigp_img_text_play_now" android:paddingLeft="@dimen/wigp_playnow_text_padding_left" android:paddingTop="@dimen/wigp_playnow_text_padding_top" android:paddingRight="@dimen/wigp_playnow_text_padding_right" android:paddingBottom="@dimen/wigp_playnow_text_padding_bottom" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/wigp_text_playnow" />
+                                </LinearLayout>
+                                <LinearLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.25">
+                                    <Button android:layout_gravity="left|center" android:id="@id/wigp_img_play_now" android:background="@drawable/wigp_selector_button_play" android:layout_width="@dimen/wigp_button_w" android:layout_height="@dimen/wigp_button_h" android:layout_marginBottom="@dimen/wigp_playnow_button_margin_bottom" />
+                                </LinearLayout>
+                            </LinearLayout>
+                        </RelativeLayout>
+                    </LinearLayout>
+                    <ImageView android:id="@id/wigp_img_welcome_mask" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/wigp_background_welcome_mask" android:scaleType="fitXY" />
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@id/wigp_layout_more_game" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <RelativeLayout android:gravity="center" android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <ImageView android:id="@id/wigp_img_more_game_background" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/wigp_selector_button_moregame" android:layout_centerInParent="true" />
+                    <ImageView android:id="@id/wigp_img_more_game" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/wigp_btn_moregame" android:layout_centerInParent="true" />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

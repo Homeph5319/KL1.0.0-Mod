@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cs_title">Selecione o país e a operadora</string>
+    <string name="cs_label_country">País:</string>
+    <string name="cs_label_operator">Operador:</string>
+    <string name="cs_btn_ok">OK</string>
+    <string name="cs_btn_cancel">Cancelar</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_canel">Cancelar</string>
+    <string name="title_payment_selection">Escolha um tipo de pagamento</string>
+    <string name="cnt_resend_confirmation_india">Será aplicável a cobrança de Rs. 3/- por um SMS. Tens a certeza?</string>
+    <string name="btn_yes">Sim</string>
+    <string name="btn_no">Não</string>
+    <string name="IAP_SAMSUNG_DIALOG_TITLE">In-App Purchase</string>
+    <string name="IAP_SAMSUNG_UPGRADE_REQUIRED">Uma atualização de In-App Purchase da Samsung é necessária. Deseja prosseguir?</string>
+    <string name="IAP_SAMSUNG_CLIENT_NOT_INSTALLED">In-App Purchase da Samsung não está instalado neste aparelho. Deseja instalar?</string>
+    <string name="IAP_SAMSUNG_APP_STORE_NOT_INSTALLED">O serviço Samsung Store não está disponível neste momento. Você pode continuar a usar o aplicativo, mas não poderá fazer compras.</string>
+    <string name="IAP_SAMSUNG_ERROR_ALREADY_PURCHASED">Este item já foi comprado. Você não será cobrado em sua conta.</string>
+    <string name="IAP_SAMSUNG_WAITING">Favor aguardar...</string>
+    <string name="IAP_SAMSUNG_OK_BUTTON">Ok</string>
+    <string name="IAP_SAMSUNG_CANCEL_BUTTON">Cancelar</string>
+</resources>

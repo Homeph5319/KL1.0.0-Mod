@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/wigp_tv_main_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/app_name" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:background="@color/igp_background" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="#ffff0000" android:layout_gravity="left" android:id="@id/wigp_tv_language" android:background="#ffffccff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:text="@string/wigp_language" />
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="#ffff0000" android:layout_gravity="left" android:id="@id/wigp_tv_enter_igp" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:text="@string/wigp_enter_igp" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="igp_background">#b7000000</color>
+    <color name="igp_background_popup">#30000000</color>
+    <color name="igp_background_playnow">#ff282828</color>
+    <color name="igp_background_main_color">#fff5f5f5</color>
+    <color name="com_facebook_picker_search_bar_background">#fff5f5f7</color>
+    <color name="com_facebook_picker_search_bar_text">#ffbcbdc2</color>
+    <color name="com_facebook_blue">#ff3b5998</color>
+    <color name="com_facebook_usersettingsfragment_connected_text_color">#ffffffff</color>
+    <color name="com_facebook_usersettingsfragment_connected_shadow_color">#ff000000</color>
+    <color name="com_facebook_usersettingsfragment_not_connected_text_color">#ffa6aed7</color>
+    <color name="com_facebook_loginview_text_color">#ffffffff</color>
+    <color name="orange">#ffff6d20</color>
+    <color name="top">#ff03141c</color>
+    <color name="bottom">#ff0088d7</color>
+    <color name="text_alpha_background">#66ffffff</color>
+    <color name="solid_black">#ff000000</color>
+    <color name="background">#b0000000</color>
+    <color name="background_popup">#30000000</color>
+    <color name="background_playnow">#d0000000</color>
+</resources>

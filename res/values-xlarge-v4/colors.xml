@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="igp_background">#b7000000</color>
+    <color name="igp_background_popup">#30000000</color>
+    <color name="igp_background_playnow">#ff282828</color>
+    <color name="igp_background_main_color">#fff5f5f5</color>
+</resources>

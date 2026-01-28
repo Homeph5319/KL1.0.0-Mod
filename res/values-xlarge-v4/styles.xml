@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="wdigp_mainloading_progreeBar" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:layout_gravity">center|bottom</item>
+        <item name="android:layout_width">@dimen/wigp_mainloading_horizontal_progessbar_width</item>
+        <item name="android:layout_height">@dimen/wigp_mainloading_horizontal_progessbar_height</item>
+        <item name="android:indeterminate">false</item>
+        <item name="android:progressDrawable">@drawable/wigp_style_mainloading_progressbar</item>
+    </style>
+    <style name="wdip_transparent_background" parent="@android:style/Theme.Translucent">
+        <item name="android:windowBackground">@color/igp_background</item>
+    </style>
+    <style name="Theme.Transparent" parent="@android:style/Theme">
+        <item name="android:windowBackground">@color/igp_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="Theme.Transparent_popup" parent="@android:style/Theme">
+        <item name="android:windowBackground">@color/igp_background_popup</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

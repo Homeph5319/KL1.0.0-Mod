@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cs_title">국가 및 통신사 선택</string>
+    <string name="cs_label_country">국가:</string>
+    <string name="cs_label_operator">통신사:</string>
+    <string name="cs_btn_ok">확인</string>
+    <string name="cs_btn_cancel">취소</string>
+    <string name="btn_ok">확인</string>
+    <string name="btn_canel">취소</string>
+    <string name="title_payment_selection">결제 방식 선택</string>
+    <string name="credit_card">신용 카드</string>
+    <string name="cnt_resend_confirmation_india">Rs. 3/-의 SMS 요금이 부과됩니다. 계속하시겠습니까?</string>
+    <string name="btn_yes">예</string>
+    <string name="btn_no">아니요</string>
+    <string name="CODE">KO</string>
+    <string name="GAME_STARTUP">안녕하세요. 이 게임을 선택해 주셔서 감사합니다! NameOfTheGame 게임은 다운로드와 플레이에 요금을 부과하지 않습니다. 원하실 경우 NameOfTheSoftCurrency 및 NameOfTheHardCurrency을(를) 구매하여 보너스 콘텐츠로 더 흥미진진하게 게임을 즐길 수도 있습니다. 앱 내부결제 관리법을 배우려면 도움말 항목을 확인하세요. 게임을 플레이하면 본 애플리케이션의 오픈 마켓 라이선스를 숙지하고 동의한 것으로 간주됩니다.</string>
+    <string name="GAME_STARTUP_WITHOUT_SOFTCURRENCY">안녕하세요. 이 게임을 선택해 주셔서 감사합니다! [Name of the game] 게임은 다운로드와 플레이에 요금을 부과하지 않습니다. 원하실 경우 NameOfTheHardCurrency을(를) 구매하여 보너스 콘텐츠로 더 흥미진진하게 게임을 즐길 수도 있습니다. 앱 내부결제 관리법을 배우려면 도움말 항목을 확인하세요. 게임을 플레이하면 본 애플리케이션의 오픈 마켓에 대한 라이선스 동의를 숙지하고 이에 동의한 것으로 간주됩니다.</string>
+    <string name="HELP_SECTION">안녕하세요. 이 게임을 선택해 주셔서 감사합니다! NameOfTheGame 게임은 다운로드와 플레이에 요금을 부과하지 않습니다. 원하실 경우 NameOfTheSoftCurrency 및 NameOfTheHardCurrency을(를) 구매하여 보너스 콘텐츠로 더 흥미진진하게 게임을 즐길 수도 있습니다. 이러한 구매를 원치 않으시면 기기의 설정을 조정하여 아이들의 구매 활동을 방지할 수 있습니다. Gameloft에서는 실수로 인한 구매 또는 이중 구매를 방지하기 위해 정책적으로 앱 내부결제를 제한하고 있으니 이점 숙지하세요.</string>
+    <string name="HELP_SECTION_WITHOUT_SOFTCURRENCY">안녕하세요. 이 게임을 선택해 주셔서 감사합니다! [Name of the game] 게임은 다운로드와 플레이에 요금을 부과하지 않습니다. 원하실 경우 NameOfTheHardCurrency을(를) 구매하여 보너스 콘텐츠로 더 흥미진진하게 게임을 즐길 수도 있습니다. 이러한 구매를 원치 않으시면 기기의 설정을 조정하여 아이들의 구매 활동을 방지할 수 있습니다.</string>
+    <string name="HELP_SECTION_GOOGLEPLAY">Google Play의 암호 설정은 타인의 유료 결제를 방지하는 좋은 방법입니다. 아래 단계를 수행하여 간단히 설정할 수 있습니다. - Google Play로 이동 >> 메뉴 키 누르기 >> 환경설정(Settings) >> 비밀번호(Password)를 선택하세요. 단, 일부 낮은 버전의 Google Play일 경우 위의 단계로 PIN 번호 설정이 가능합니다. 당연히 암호는 타인에게 노출되어서는 안 되며, 아이들이라 할지라도 예외는 아닙니다. 자세한 정보는 해당 장치의 사용 설명서를 확인하거나 장치 제조업체에 문의하시기 바랍니다. Gameloft에서는 실수로 인한 구매 또는 이중 구매를 방지하기 위해 정책적으로 앱 내부결제를 제한하고 있으니 이점 숙지하세요.</string>
+    <string name="HELP_SECTION_AMAZON">실수로 인한 앱 내부결제를 방지하는 좋은 방법 중 하나는 Amazon 암호를 설정해 두는 것입니다. 다음 단계를 수행하세요. - Amazon Appstore로 이동 >> 메뉴 키 누르기 >> 설정(Settings) >>> 보호자 통제(Parental Controls)로 이동하세요. - 보호자 통제 활성화(Enable Parental Controls)를 “켜짐(On)”으로 설정하세요(이때 기존 Amazon 암호 입력). 당연히 암호는 타인에게 노출되어서는 안 되며, 아이들이라 할지라도 예외는 아닙니다. Gameloft에서는 실수로 인한 구매 또는 이중 구매를 방지하기 위해 정책적으로 앱 내부결제를 제한하고 있으니 이점 숙지하세요.</string>
+    <string name="COSTS_REAL_MONEY">유료</string>
+    <string name="IAP_SAMSUNG_DIALOG_TITLE">In-App Purchase</string>
+    <string name="IAP_SAMSUNG_UPGRADE_REQUIRED">Samsung In-App Purchase 업그레이드가 필요합니다. 계속 진행하시겠습니까?</string>
+    <string name="IAP_SAMSUNG_CLIENT_NOT_INSTALLED">Samsung In-App Purchase가 장치에 설치되지 않았습니다. 설치하시겠습니까?</string>
+    <string name="IAP_SAMSUNG_APP_STORE_NOT_INSTALLED">현재 Samsung Store 서비스를 사용할 수 없습니다. 본 애플리케이션을 계속 사용할 수 있으나 아이템을 구매할 수는 없습니다.</string>
+    <string name="IAP_SAMSUNG_ERROR_ALREADY_PURCHASED">이 아이템은 이미 구매했으므로 계정에 요금이 청구되지 않습니다.</string>
+    <string name="IAP_SAMSUNG_WAITING">잠시만 기다려 주세요...</string>
+    <string name="IAP_SAMSUNG_OK_BUTTON">확인</string>
+    <string name="IAP_SAMSUNG_CANCEL_BUTTON">취소</string>
+    <string name="string_app_name">100% Games!</string>
+    <string name="string_error_io_exception">파일 다운로드에 오류가 있습니다. 외부 저장소에 쓰기를 할 수 없습니다. 여유 공간이 있는지 확인하세요.</string>
+    <string name="string_error_exception">"파일 다운로드에 오류가 있습니다. 
+예외적인 상황이 발생했습니다."</string>
+    <string name="string_downloading">다운로드 중...</string>
+    <string name="string_download_finish_dialog_successfull">다운로드 성공</string>
+    <string name="string_button_update">업데이트</string>
+    <string name="string_button_cancel">취소</string>
+    <string name="string_ask_new_version">"위젯의 새 버전이 등록되었습니다.
+최신 게임 정보를 확인하려면 업데이트해주세요."</string>
+</resources>
