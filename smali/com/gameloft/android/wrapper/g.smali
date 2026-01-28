@@ -33,30 +33,10 @@
 .end method
 
 .method public static M(Z)Z
-    .locals 2
+    .locals 1
 
-    sget-boolean v0, Lcom/gameloft/android/wrapper/g;->Wo:Z
-
-    if-eqz v0, :cond_0
-
-    new-instance v0, Ljava/lang/StringBuilder;
-
-    const-string v1, "Dialog interrupt: "
-
-    invoke-direct {v0, v1}, Ljava/lang/StringBuilder;-><init>(Ljava/lang/String;)V
-
-    sget-boolean v1, Lcom/gameloft/android/wrapper/g;->Wo:Z
-
-    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Z)Ljava/lang/StringBuilder;
-
-    move-result-object v0
-
-    invoke-virtual {v0}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
-
-    const/4 p0, 0x1
-
-    :cond_0
-    return p0
+    const/4 v0, 0x1  # always "has focus"
+    return v0
 .end method
 
 .method public static a(Landroid/app/Dialog;)V
