@@ -3343,17 +3343,17 @@
 
     :array_3
     .array-data 4
-        0xf423f
-        0xf423f
+        0x5F5E0FF	# COINS           // 99,999,999
+        0xf423f		# DIAMONDS        // 999,999
         0xb
-        0xf423f
+        0x98967F	# EXP             // 9,999,999
         0xc8
-        0xf423f
-        0xf423f
-        0xf423f
+        0xf423f		# WOODS           // 999,999
+        0xf423f		# METALS          // 999,999
+        0xf423f		# FABRIC          // 999,999
         0x64
-        0xf423f
-        0xf423f
+        0xf423f		# SOCIAL STARS    // 999,999	
+        0x7FFFFFFF	# I Honestly Don't Know // max 32-bit signed integer
     .end array-data
 
     :array_4
