@@ -5,7 +5,6 @@
         <activity android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|layoutDirection|fontScale" android:label="@string/MIDlet_Name" android:launchMode="singleTop" android:name=".StartGame" android:screenOrientation="landscape">
             <intent-filter/>
         </activity>
-        <activity android:label="@string/MIDlet_Name" android:name="com.facebook.LoginActivity" android:screenOrientation="landscape" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
         <receiver android:name=".PushNotification.LocalPushReceiver">
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED"/>
@@ -29,23 +28,8 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".SMSSender" android:screenOrientation="landscape"/>
         <provider android:authorities="com.gameloft.android.LATAM.GloftKLMF.KeyProvider" android:exported="true" android:multiprocess="true" android:name=".KeyProvider" android:permission="glshare.permission.ACCESS_SHARED_DATA"/>
         <meta-data android:name="CHANNEL_ID" android:value="0"/>
-        <activity android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|fontScale" android:name="com.gameloft.android2d.iap.utils.MyWebView" android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"/>
-        <activity android:configChanges="mcc|mnc|locale|touchscreen|navigation|orientation|uiMode|fontScale" android:multiprocess="false" android:name="com.gameloft.android2d.igp.IGPScreenshot" android:noHistory="false" android:screenOrientation="landscape" android:theme="@style/Theme.Transparent"/>
-        <activity android:configChanges="mcc|mnc|locale|touchscreen|navigation|orientation|uiMode|fontScale" android:multiprocess="false" android:name="com.gameloft.android2d.igp.IGP" android:noHistory="false" android:screenOrientation="landscape" android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-        <activity android:configChanges="mcc|mnc|locale|touchscreen|navigation|orientation|uiMode|fontScale" android:multiprocess="false" android:name="com.gameloft.android2d.igp.IGPLoading" android:noHistory="false" android:screenOrientation="landscape" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
-            </intent-filter>
-        </activity>
-        <activity android:configChanges="mcc|mnc|locale|touchscreen|navigation|orientation|uiMode|fontScale" android:multiprocess="false" android:name="com.gameloft.android2d.igp.IGPDownloadFreemium" android:noHistory="false" android:screenOrientation="landscape" android:theme="@style/Theme.Transparent_popup"/>
-        <activity android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|layoutDirection|fontScale" android:launchMode="singleTop" android:name=".S.GloftKLMF" android:screenOrientation="landscape">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
-            </intent-filter>
-        </activity>
     </application>
     <uses-feature android:name="android.hardware.touchscreen"/>
     <uses-feature android:name="android.hardware.telephony" android:required="false"/>
