@@ -4582,7 +4582,7 @@
     :cond_0
     invoke-virtual {v0}, Landroid/net/ConnectivityManager;->getActiveNetworkInfo()Landroid/net/NetworkInfo;
 
-    move-result-object v0
+    const/4 v0, 0x0
 
     if-nez v0, :cond_1
 
@@ -4635,7 +4635,7 @@
     :cond_0
     invoke-virtual {v0}, Landroid/net/ConnectivityManager;->getActiveNetworkInfo()Landroid/net/NetworkInfo;
 
-    move-result-object v0
+    const/4 v0, 0x0
 
     if-nez v0, :cond_1
 
@@ -4701,7 +4701,7 @@
     :cond_0
     invoke-virtual {v0}, Landroid/net/ConnectivityManager;->getActiveNetworkInfo()Landroid/net/NetworkInfo;
 
-    move-result-object v0
+    const/4 v0, 0x0
 
     if-nez v0, :cond_1
 
@@ -4778,7 +4778,7 @@
 
     invoke-virtual {v0}, Landroid/net/ConnectivityManager;->getActiveNetworkInfo()Landroid/net/NetworkInfo;
 
-    move-result-object v0
+    const/4 v0, 0x0
 
     invoke-virtual {v0}, Landroid/net/NetworkInfo;->getType()I
 

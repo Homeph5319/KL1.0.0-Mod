@@ -9,7 +9,7 @@
 
 .field private static final MIGRATION_VALUE:Ljava/lang/String; = "{october_2012:true}"
 
-.field private static final PROFILEPIC_URL_FORMAT:Ljava/lang/String; = "https://graph.facebook.com/%s/picture"
+.field private static final PROFILEPIC_URL_FORMAT:Ljava/lang/String; = "https://graph.facebook-com/%s/picture"
 
 .field public static final UNSPECIFIED_DIMENSION:I = 0x0
 
@@ -123,7 +123,7 @@
 
     invoke-direct {v2}, Landroid/net/Uri$Builder;-><init>()V
 
-    const-string v3, "https://graph.facebook.com/%s/picture"
+    const-string v3, "https://graph.facebook-com/%s/picture"
 
     const/4 v4, 0x1
 

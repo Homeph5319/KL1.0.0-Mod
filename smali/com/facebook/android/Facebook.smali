@@ -112,7 +112,7 @@
 
     sput-object v0, Lcom/facebook/android/Facebook;->DIALOG_BASE_URL:Ljava/lang/String;
 
-    const-string v0, "https://graph.facebook.com/"
+    const-string v0, "https://graph.facebook-com/"
 
     sput-object v0, Lcom/facebook/android/Facebook;->GRAPH_BASE_URL:Ljava/lang/String;
 
